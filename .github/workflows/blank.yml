@@ -1,0 +1,17 @@
+name: black-notebooks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  black:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: psf/black@stable
+        with:
+          jupyter: true
+          options: "--check --diff --verbose"
+          src: "."
