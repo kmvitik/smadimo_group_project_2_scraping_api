@@ -1,0 +1,2026 @@
+country,role,level,min_eur,max_eur,range_eur
+Austria,Applications Developer,sme,43,52,9
+Austria,Applications Developer,st,52,59,7
+Austria,Applications Developer,co,56,60,4
+Austria,Automation Engineer,sme,36,43,7
+Austria,Automation Engineer,st,47,54,7
+Austria,Automation Engineer,co,48,57,9
+Austria,Backend Developer,sme,42,52,10
+Austria,Backend Developer,st,53,71,18
+Austria,Backend Developer,co,62,86,24
+Austria,BI Analyst,sme,40,48,8
+Austria,BI Analyst,st,44,51,7
+Austria,BI Analyst,co,44,51,7
+Austria,BI Developer,sme,41,51,10
+Austria,BI Developer,st,56,68,12
+Austria,BI Developer,co,59,69,10
+Austria,BI Manager,sme,67,78,11
+Austria,BI Manager,st,71,82,11
+Austria,BI Manager,co,92,101,9
+Austria,Cyber Security Analyst,sme,50,58,8
+Austria,Cyber Security Analyst,st,54,62,8
+Austria,Cyber Security Analyst,co,55,61,6
+Austria,Data Analyst,sme,51,58,7
+Austria,Data Analyst,st,55,62,7
+Austria,Data Analyst,co,55,62,7
+Austria,Data Engineer,sme,42,54,12
+Austria,Data Engineer,st,52,68,16
+Austria,Data Engineer,co,60,80,20
+Austria,Devops Engineer,sme,45,56,11
+Austria,Devops Engineer,st,55,69,14
+Austria,Devops Engineer,co,63,80,17
+Austria,Frontend Developer,sme,48,53,5
+Austria,Frontend Developer,st,56,68,12
+Austria,Frontend Developer,co,66,82,16
+Austria,Full Stack Developer,sme,44,56,12
+Austria,Full Stack Developer,st,55,73,18
+Austria,Full Stack Developer,co,57,76,19
+Austria,Machine Learning Engineer,sme,49,59,10
+Austria,Machine Learning Engineer,st,60,73,13
+Austria,Machine Learning Engineer,co,66,78,12
+Austria,Network Architect,sme,47,57,10
+Austria,Network Architect,st,54,64,10
+Austria,Network Architect,co,76,86,10
+Austria,Python Developer,sme,36,43,7
+Austria,Python Developer,st,44,54,10
+Austria,Python Developer,co,45,57,12
+Austria,QA Analyst,sme,42,48,6
+Austria,QA Analyst,st,45,50,5
+Austria,QA Analyst,co,46,51,5
+Austria,QA Engineer,sme,41,49,8
+Austria,QA Engineer,st,51,58,7
+Austria,QA Engineer,co,54,59,5
+Austria,QA Manager,sme,68,77,9
+Austria,QA Manager,st,78,91,13
+Austria,QA Manager,co,79,92,13
+Austria,Salesforce Developer,sme,35,42,7
+Austria,Salesforce Developer,st,37,43,6
+Austria,Salesforce Developer,co,43,51,8
+Austria,Scrum Master,sme,47,56,9
+Austria,Scrum Master,st,51,61,10
+Austria,Scrum Master,co,61,71,10
+Austria,Software Developer,sme,42,50,8
+Austria,Software Developer,st,59,70,11
+Austria,Software Developer,co,62,74,12
+Austria,Software Engineer,sme,44,60,16
+Austria,Software Engineer,st,46,63,17
+Austria,Software Engineer,co,61,82,21
+Austria,Software Engineering Manager,sme,61,70,9
+Austria,Software Engineering Manager,st,73,85,12
+Austria,Software Engineering Manager,co,100,116,16
+Austria,Solutions Analyst,sme,41,52,11
+Austria,Solutions Analyst,st,45,57,12
+Austria,Solutions Analyst,co,46,57,11
+Austria,Systems Architect,sme,59,68,9
+Austria,Systems Architect,st,55,64,9
+Austria,Systems Architect,co,96,116,20
+Austria,Systems Engineer,sme,52,61,9
+Austria,Systems Engineer,st,66,76,10
+Austria,Systems Engineer,co,71,83,12
+Austria,Test Automation Engineer,sme,34,40,6
+Austria,Test Automation Engineer,st,37,45,8
+Austria,Test Automation Engineer,co,47,54,7
+Belarus,Applications Developer,sme,31,37,6
+Belarus,Applications Developer,st,39,44,5
+Belarus,Applications Developer,co,39,45,6
+Belarus,Automation Engineer,sme,22,28,6
+Belarus,Automation Engineer,st,32,38,6
+Belarus,Automation Engineer,co,33,39,6
+Belarus,Backend Developer,sme,25,32,7
+Belarus,Backend Developer,st,33,43,10
+Belarus,Backend Developer,co,40,50,10
+Belarus,BI Analyst,sme,26,30,4
+Belarus,BI Analyst,st,27,32,5
+Belarus,BI Analyst,co,28,32,4
+Belarus,BI Developer,sme,22,28,6
+Belarus,BI Developer,st,29,35,6
+Belarus,BI Developer,co,32,35,3
+Belarus,BI Manager,sme,38,49,11
+Belarus,BI Manager,st,40,50,10
+Belarus,BI Manager,co,50,58,8
+Belarus,Cyber Security Analyst,sme,26,34,8
+Belarus,Cyber Security Analyst,st,28,34,6
+Belarus,Cyber Security Analyst,co,28,35,7
+Belarus,Data Analyst,sme,26,32,6
+Belarus,Data Analyst,st,28,34,6
+Belarus,Data Analyst,co,28,34,6
+Belarus,Data Engineer,sme,29,38,9
+Belarus,Data Engineer,st,36,49,13
+Belarus,Data Engineer,co,42,59,17
+Belarus,Devops Engineer,sme,28,36,8
+Belarus,Devops Engineer,st,38,47,9
+Belarus,Devops Engineer,co,44,57,13
+Belarus,Frontend Developer,sme,30,36,6
+Belarus,Frontend Developer,st,41,49,8
+Belarus,Frontend Developer,co,49,61,12
+Belarus,Full Stack Developer,sme,28,40,12
+Belarus,Full Stack Developer,st,41,52,11
+Belarus,Full Stack Developer,co,41,54,13
+Belarus,Machine Learning Engineer,sme,30,36,6
+Belarus,Machine Learning Engineer,st,39,50,11
+Belarus,Machine Learning Engineer,co,42,53,11
+Belarus,Network Architect,sme,29,33,4
+Belarus,Network Architect,st,33,38,5
+Belarus,Network Architect,co,45,52,7
+Belarus,Python Developer,sme,20,25,5
+Belarus,Python Developer,st,26,33,7
+Belarus,Python Developer,co,28,36,8
+Belarus,QA Analyst,sme,26,30,4
+Belarus,QA Analyst,st,30,37,7
+Belarus,QA Analyst,co,31,34,3
+Belarus,QA Engineer,sme,24,28,4
+Belarus,QA Engineer,st,30,38,8
+Belarus,QA Engineer,co,30,38,8
+Belarus,QA Manager,sme,43,45,2
+Belarus,QA Manager,st,49,55,6
+Belarus,QA Manager,co,47,55,8
+Belarus,Salesforce Developer,sme,22,27,5
+Belarus,Salesforce Developer,st,22,28,6
+Belarus,Salesforce Developer,co,24,31,7
+Belarus,Scrum Master,sme,28,37,9
+Belarus,Scrum Master,st,32,41,9
+Belarus,Scrum Master,co,42,52,10
+Belarus,Software Developer,sme,31,35,4
+Belarus,Software Developer,st,45,50,5
+Belarus,Software Developer,co,46,53,7
+Belarus,Software Engineer,sme,24,26,2
+Belarus,Software Engineer,st,24,31,7
+Belarus,Software Engineer,co,29,47,18
+Belarus,Software Engineering Manager,sme,35,43,8
+Belarus,Software Engineering Manager,st,44,52,8
+Belarus,Software Engineering Manager,co,60,70,10
+Belarus,Solutions Analyst,sme,28,35,7
+Belarus,Solutions Analyst,st,30,39,9
+Belarus,Solutions Analyst,co,31,40,9
+Belarus,Systems Architect,sme,40,52,12
+Belarus,Systems Architect,st,37,46,9
+Belarus,Systems Architect,co,57,72,15
+Belarus,Systems Engineer,sme,31,39,8
+Belarus,Systems Engineer,st,38,47,9
+Belarus,Systems Engineer,co,42,48,6
+Belarus,Test Automation Engineer,sme,18,24,6
+Belarus,Test Automation Engineer,st,22,29,7
+Belarus,Test Automation Engineer,co,30,37,7
+Belgium,Applications Developer,sme,46,50,4
+Belgium,Applications Developer,st,57,65,8
+Belgium,Applications Developer,co,58,64,6
+Belgium,Automation Engineer,sme,40,48,8
+Belgium,Automation Engineer,st,52,60,8
+Belgium,Automation Engineer,co,53,63,10
+Belgium,Backend Developer,sme,47,61,14
+Belgium,Backend Developer,st,57,76,19
+Belgium,Backend Developer,co,63,87,24
+Belgium,BI Analyst,sme,45,53,8
+Belgium,BI Analyst,st,48,56,8
+Belgium,BI Analyst,co,47,56,9
+Belgium,BI Developer,sme,44,48,4
+Belgium,BI Developer,st,54,60,6
+Belgium,BI Developer,co,54,62,8
+Belgium,BI Manager,sme,72,83,11
+Belgium,BI Manager,st,77,88,11
+Belgium,BI Manager,co,101,110,9
+Belgium,Cyber Security Analyst,sme,60,65,5
+Belgium,Cyber Security Analyst,st,66,71,5
+Belgium,Cyber Security Analyst,co,65,72,7
+Belgium,Data Analyst,sme,48,56,8
+Belgium,Data Analyst,st,52,59,7
+Belgium,Data Analyst,co,53,60,7
+Belgium,Data Engineer,sme,50,65,15
+Belgium,Data Engineer,st,59,78,19
+Belgium,Data Engineer,co,67,88,21
+Belgium,Devops Engineer,sme,51,61,10
+Belgium,Devops Engineer,st,57,70,13
+Belgium,Devops Engineer,co,66,81,15
+Belgium,Frontend Developer,sme,51,60,9
+Belgium,Frontend Developer,st,60,75,15
+Belgium,Frontend Developer,co,72,84,12
+Belgium,Full Stack Developer,sme,50,62,12
+Belgium,Full Stack Developer,st,60,77,17
+Belgium,Full Stack Developer,co,62,78,16
+Belgium,Machine Learning Engineer,sme,50,56,6
+Belgium,Machine Learning Engineer,st,65,76,11
+Belgium,Machine Learning Engineer,co,72,84,12
+Belgium,Network Architect,sme,51,61,10
+Belgium,Network Architect,st,57,68,11
+Belgium,Network Architect,co,76,92,16
+Belgium,Python Developer,sme,42,50,8
+Belgium,Python Developer,st,50,61,11
+Belgium,Python Developer,co,50,62,12
+Belgium,QA Analyst,sme,48,56,8
+Belgium,QA Analyst,st,52,60,8
+Belgium,QA Analyst,co,52,60,8
+Belgium,QA Engineer,sme,43,51,8
+Belgium,QA Engineer,st,53,60,7
+Belgium,QA Engineer,co,53,63,10
+Belgium,QA Manager,sme,76,95,19
+Belgium,QA Manager,st,86,105,19
+Belgium,QA Manager,co,86,105,19
+Belgium,Salesforce Developer,sme,40,47,7
+Belgium,Salesforce Developer,st,41,48,7
+Belgium,Salesforce Developer,co,45,55,10
+Belgium,Scrum Master,sme,51,58,7
+Belgium,Scrum Master,st,54,64,10
+Belgium,Scrum Master,co,65,76,11
+Belgium,Software Developer,sme,50,55,5
+Belgium,Software Developer,st,63,73,10
+Belgium,Software Developer,co,66,78,12
+Belgium,Software Engineer,sme,48,62,14
+Belgium,Software Engineer,st,52,70,18
+Belgium,Software Engineer,co,67,88,21
+Belgium,Software Engineering Manager,sme,64,71,7
+Belgium,Software Engineering Manager,st,84,92,8
+Belgium,Software Engineering Manager,co,114,126,12
+Belgium,Solutions Analyst,sme,59,70,11
+Belgium,Solutions Analyst,st,60,74,14
+Belgium,Solutions Analyst,co,59,73,14
+Belgium,Systems Architect,sme,53,64,11
+Belgium,Systems Architect,st,62,71,9
+Belgium,Systems Architect,co,92,110,18
+Belgium,Systems Engineer,sme,55,68,13
+Belgium,Systems Engineer,st,70,81,11
+Belgium,Systems Engineer,co,70,84,14
+Belgium,Test Automation Engineer,sme,38,45,7
+Belgium,Test Automation Engineer,st,42,50,8
+Belgium,Test Automation Engineer,co,51,57,6
+Cyprus,Applications Developer,sme,43,51,8
+Cyprus,Applications Developer,st,50,57,7
+Cyprus,Applications Developer,co,43,53,10
+Cyprus,Automation Engineer,sme,34,42,8
+Cyprus,Automation Engineer,st,44,52,8
+Cyprus,Automation Engineer,co,46,51,5
+Cyprus,Backend Developer,sme,41,50,9
+Cyprus,Backend Developer,st,48,60,12
+Cyprus,Backend Developer,co,52,66,14
+Cyprus,BI Analyst,sme,38,47,9
+Cyprus,BI Analyst,st,41,49,8
+Cyprus,BI Analyst,co,41,49,8
+Cyprus,BI Developer,sme,38,43,5
+Cyprus,BI Developer,st,48,52,4
+Cyprus,BI Developer,co,48,54,6
+Cyprus,BI Manager,sme,44,51,7
+Cyprus,BI Manager,st,50,55,5
+Cyprus,BI Manager,co,62,69,7
+Cyprus,Cyber Security Analyst,sme,44,52,8
+Cyprus,Cyber Security Analyst,st,46,55,9
+Cyprus,Cyber Security Analyst,co,47,55,8
+Cyprus,Data Analyst,sme,38,46,8
+Cyprus,Data Analyst,st,43,50,7
+Cyprus,Data Analyst,co,44,52,8
+Cyprus,Data Engineer,sme,40,52,12
+Cyprus,Data Engineer,st,47,62,15
+Cyprus,Data Engineer,co,56,69,13
+Cyprus,Devops Engineer,sme,43,51,8
+Cyprus,Devops Engineer,st,50,62,12
+Cyprus,Devops Engineer,co,56,68,12
+Cyprus,Frontend Developer,sme,45,52,7
+Cyprus,Frontend Developer,st,50,59,9
+Cyprus,Frontend Developer,co,56,65,9
+Cyprus,Full Stack Developer,sme,43,56,13
+Cyprus,Full Stack Developer,st,52,68,16
+Cyprus,Full Stack Developer,co,50,68,18
+Cyprus,Machine Learning Engineer,sme,43,56,13
+Cyprus,Machine Learning Engineer,st,53,65,12
+Cyprus,Machine Learning Engineer,co,57,67,10
+Cyprus,Network Architect,sme,48,55,7
+Cyprus,Network Architect,st,51,61,10
+Cyprus,Network Architect,co,64,70,6
+Cyprus,Python Developer,sme,35,40,5
+Cyprus,Python Developer,st,41,50,9
+Cyprus,Python Developer,co,42,53,11
+Cyprus,QA Analyst,sme,40,45,5
+Cyprus,QA Analyst,st,37,47,10
+Cyprus,QA Analyst,co,38,46,8
+Cyprus,QA Engineer,sme,38,46,8
+Cyprus,QA Engineer,st,42,52,10
+Cyprus,QA Engineer,co,44,51,7
+Cyprus,QA Manager,sme,56,68,12
+Cyprus,QA Manager,st,62,72,10
+Cyprus,QA Manager,co,63,78,15
+Cyprus,Salesforce Developer,sme,34,42,8
+Cyprus,Salesforce Developer,st,37,46,9
+Cyprus,Salesforce Developer,co,42,49,7
+Cyprus,Scrum Master,sme,40,48,8
+Cyprus,Scrum Master,st,41,52,11
+Cyprus,Scrum Master,co,50,58,8
+Cyprus,Software Developer,sme,41,45,4
+Cyprus,Software Developer,st,52,62,10
+Cyprus,Software Developer,co,52,62,10
+Cyprus,Software Engineer,sme,40,50,10
+Cyprus,Software Engineer,st,44,60,16
+Cyprus,Software Engineer,co,53,72,19
+Cyprus,Software Engineering Manager,sme,50,55,5
+Cyprus,Software Engineering Manager,st,61,69,8
+Cyprus,Software Engineering Manager,co,83,101,18
+Cyprus,Solutions Analyst,sme,41,50,9
+Cyprus,Solutions Analyst,st,45,50,5
+Cyprus,Solutions Analyst,co,44,51,7
+Cyprus,Systems Architect,sme,52,60,8
+Cyprus,Systems Architect,st,50,58,8
+Cyprus,Systems Architect,co,82,91,9
+Cyprus,Systems Engineer,sme,52,60,8
+Cyprus,Systems Engineer,st,52,64,12
+Cyprus,Systems Engineer,co,51,60,9
+Cyprus,Test Automation Engineer,sme,31,41,10
+Cyprus,Test Automation Engineer,st,37,46,9
+Cyprus,Test Automation Engineer,co,43,60,17
+Czech Republic,Applications Developer,sme,31,36,5
+Czech Republic,Applications Developer,st,44,51,7
+Czech Republic,Applications Developer,co,41,50,9
+Czech Republic,Automation Engineer,sme,28,36,8
+Czech Republic,Automation Engineer,st,39,46,7
+Czech Republic,Automation Engineer,co,40,48,8
+Czech Republic,Backend Developer,sme,26,33,7
+Czech Republic,Backend Developer,st,33,44,11
+Czech Republic,Backend Developer,co,41,50,9
+Czech Republic,BI Analyst,sme,27,32,5
+Czech Republic,BI Analyst,st,29,34,5
+Czech Republic,BI Analyst,co,29,34,5
+Czech Republic,BI Developer,sme,26,33,7
+Czech Republic,BI Developer,st,35,40,5
+Czech Republic,BI Developer,co,36,41,5
+Czech Republic,BI Manager,sme,47,55,8
+Czech Republic,BI Manager,st,48,59,11
+Czech Republic,BI Manager,co,59,69,10
+Czech Republic,Cyber Security Analyst,sme,31,37,6
+Czech Republic,Cyber Security Analyst,st,33,42,9
+Czech Republic,Cyber Security Analyst,co,34,44,10
+Czech Republic,Data Analyst,sme,36,43,7
+Czech Republic,Data Analyst,st,39,46,7
+Czech Republic,Data Analyst,co,39,47,8
+Czech Republic,Data Engineer,sme,34,45,11
+Czech Republic,Data Engineer,st,42,55,13
+Czech Republic,Data Engineer,co,49,64,15
+Czech Republic,Devops Engineer,sme,29,34,5
+Czech Republic,Devops Engineer,st,36,46,10
+Czech Republic,Devops Engineer,co,43,55,12
+Czech Republic,Frontend Developer,sme,29,35,6
+Czech Republic,Frontend Developer,st,36,43,7
+Czech Republic,Frontend Developer,co,42,49,7
+Czech Republic,Full Stack Developer,sme,33,44,11
+Czech Republic,Full Stack Developer,st,45,60,15
+Czech Republic,Full Stack Developer,co,47,63,16
+Czech Republic,Machine Learning Engineer,sme,33,41,8
+Czech Republic,Machine Learning Engineer,st,47,63,16
+Czech Republic,Machine Learning Engineer,co,53,67,14
+Czech Republic,Network Architect,sme,30,38,8
+Czech Republic,Network Architect,st,33,40,7
+Czech Republic,Network Architect,co,40,52,12
+Czech Republic,Python Developer,sme,22,31,9
+Czech Republic,Python Developer,st,31,40,9
+Czech Republic,Python Developer,co,33,42,9
+Czech Republic,QA Analyst,sme,35,38,3
+Czech Republic,QA Analyst,st,36,42,6
+Czech Republic,QA Analyst,co,36,46,10
+Czech Republic,QA Engineer,sme,24,34,10
+Czech Republic,QA Engineer,st,32,38,6
+Czech Republic,QA Engineer,co,33,39,6
+Czech Republic,QA Manager,sme,51,56,5
+Czech Republic,QA Manager,st,57,61,4
+Czech Republic,QA Manager,co,59,62,3
+Czech Republic,Salesforce Developer,sme,24,28,4
+Czech Republic,Salesforce Developer,st,22,28,6
+Czech Republic,Salesforce Developer,co,28,34,6
+Czech Republic,Scrum Master,sme,38,46,8
+Czech Republic,Scrum Master,st,41,50,9
+Czech Republic,Scrum Master,co,51,60,9
+Czech Republic,Software Developer,sme,28,32,4
+Czech Republic,Software Developer,st,41,46,5
+Czech Republic,Software Developer,co,45,47,2
+Czech Republic,Software Engineer,sme,27,37,10
+Czech Republic,Software Engineer,st,33,45,12
+Czech Republic,Software Engineer,co,42,60,18
+Czech Republic,Software Engineering Manager,sme,44,49,5
+Czech Republic,Software Engineering Manager,st,54,60,6
+Czech Republic,Software Engineering Manager,co,72,81,9
+Czech Republic,Solutions Analyst,sme,29,36,7
+Czech Republic,Solutions Analyst,st,29,39,10
+Czech Republic,Solutions Analyst,co,30,40,10
+Czech Republic,Systems Architect,sme,50,58,8
+Czech Republic,Systems Architect,st,51,64,13
+Czech Republic,Systems Architect,co,89,106,17
+Czech Republic,Systems Engineer,sme,29,36,7
+Czech Republic,Systems Engineer,st,34,42,8
+Czech Republic,Systems Engineer,co,36,43,7
+Czech Republic,Test Automation Engineer,sme,21,26,5
+Czech Republic,Test Automation Engineer,st,23,31,8
+Czech Republic,Test Automation Engineer,co,32,38,6
+Denmark,Applications Developer,sme,51,55,4
+Denmark,Applications Developer,st,66,73,7
+Denmark,Applications Developer,co,66,74,8
+Denmark,Automation Engineer,sme,53,61,8
+Denmark,Automation Engineer,st,70,80,10
+Denmark,Automation Engineer,co,70,83,13
+Denmark,Backend Developer,sme,56,68,12
+Denmark,Backend Developer,st,75,92,17
+Denmark,Backend Developer,co,88,115,27
+Denmark,BI Analyst,sme,53,61,8
+Denmark,BI Analyst,st,61,71,10
+Denmark,BI Analyst,co,63,74,11
+Denmark,BI Developer,sme,50,55,5
+Denmark,BI Developer,st,67,76,9
+Denmark,BI Developer,co,70,79,9
+Denmark,BI Manager,sme,113,124,11
+Denmark,BI Manager,st,121,132,11
+Denmark,BI Manager,co,156,172,16
+Denmark,Cyber Security Analyst,sme,61,76,15
+Denmark,Cyber Security Analyst,st,67,83,16
+Denmark,Cyber Security Analyst,co,69,84,15
+Denmark,Data Analyst,sme,63,72,9
+Denmark,Data Analyst,st,67,77,10
+Denmark,Data Analyst,co,67,78,11
+Denmark,Data Engineer,sme,71,93,22
+Denmark,Data Engineer,st,93,119,26
+Denmark,Data Engineer,co,108,135,27
+Denmark,Devops Engineer,sme,68,85,17
+Denmark,Devops Engineer,st,92,113,21
+Denmark,Devops Engineer,co,111,133,22
+Denmark,Frontend Developer,sme,65,81,16
+Denmark,Frontend Developer,st,88,106,18
+Denmark,Frontend Developer,co,109,130,21
+Denmark,Full Stack Developer,sme,58,74,16
+Denmark,Full Stack Developer,st,84,102,18
+Denmark,Full Stack Developer,co,88,107,19
+Denmark,Machine Learning Engineer,sme,62,73,11
+Denmark,Machine Learning Engineer,st,84,104,20
+Denmark,Machine Learning Engineer,co,91,114,23
+Denmark,Network Architect,sme,61,73,12
+Denmark,Network Architect,st,71,83,12
+Denmark,Network Architect,co,96,104,8
+Denmark,Python Developer,sme,45,55,10
+Denmark,Python Developer,st,61,75,14
+Denmark,Python Developer,co,64,80,16
+Denmark,QA Analyst,sme,59,67,8
+Denmark,QA Analyst,st,64,72,8
+Denmark,QA Analyst,co,65,73,8
+Denmark,QA Engineer,sme,52,61,9
+Denmark,QA Engineer,st,69,78,9
+Denmark,QA Engineer,co,75,84,9
+Denmark,QA Manager,sme,102,120,18
+Denmark,QA Manager,st,115,129,14
+Denmark,QA Manager,co,115,128,13
+Denmark,Salesforce Developer,sme,37,48,11
+Denmark,Salesforce Developer,st,41,49,8
+Denmark,Salesforce Developer,co,59,65,6
+Denmark,Scrum Master,sme,80,94,14
+Denmark,Scrum Master,st,87,101,14
+Denmark,Scrum Master,co,104,121,17
+Denmark,Software Developer,sme,62,72,10
+Denmark,Software Developer,st,89,105,16
+Denmark,Software Developer,co,94,110,16
+Denmark,Software Engineer,sme,50,67,17
+Denmark,Software Engineer,st,59,78,19
+Denmark,Software Engineer,co,82,106,24
+Denmark,Software Engineering Manager,sme,103,125,22
+Denmark,Software Engineering Manager,st,122,137,15
+Denmark,Software Engineering Manager,co,156,183,27
+Denmark,Solutions Analyst,sme,60,75,15
+Denmark,Solutions Analyst,st,65,83,18
+Denmark,Solutions Analyst,co,67,85,18
+Denmark,Systems Architect,sme,87,99,12
+Denmark,Systems Architect,st,91,118,27
+Denmark,Systems Architect,co,161,182,21
+Denmark,Systems Engineer,sme,57,66,9
+Denmark,Systems Engineer,st,73,86,13
+Denmark,Systems Engineer,co,77,88,11
+Denmark,Test Automation Engineer,sme,40,48,8
+Denmark,Test Automation Engineer,st,48,58,10
+Denmark,Test Automation Engineer,co,68,77,9
+Estonia,Applications Developer,sme,36,39,3
+Estonia,Applications Developer,st,44,49,5
+Estonia,Applications Developer,co,44,49,5
+Estonia,Automation Engineer,sme,30,38,8
+Estonia,Automation Engineer,st,40,46,6
+Estonia,Automation Engineer,co,41,46,5
+Estonia,Backend Developer,sme,30,38,8
+Estonia,Backend Developer,st,40,54,14
+Estonia,Backend Developer,co,47,67,20
+Estonia,BI Analyst,sme,34,41,7
+Estonia,BI Analyst,st,37,44,7
+Estonia,BI Analyst,co,37,45,8
+Estonia,BI Developer,sme,30,34,4
+Estonia,BI Developer,st,41,46,5
+Estonia,BI Developer,co,42,46,4
+Estonia,BI Manager,sme,42,49,7
+Estonia,BI Manager,st,45,52,7
+Estonia,BI Manager,co,58,66,8
+Estonia,Cyber Security Analyst,sme,39,46,7
+Estonia,Cyber Security Analyst,st,40,48,8
+Estonia,Cyber Security Analyst,co,41,47,6
+Estonia,Data Analyst,sme,43,48,5
+Estonia,Data Analyst,st,45,52,7
+Estonia,Data Analyst,co,46,52,6
+Estonia,Data Engineer,sme,37,50,13
+Estonia,Data Engineer,st,47,62,15
+Estonia,Data Engineer,co,57,74,17
+Estonia,Devops Engineer,sme,38,45,7
+Estonia,Devops Engineer,st,48,61,13
+Estonia,Devops Engineer,co,57,73,16
+Estonia,Frontend Developer,sme,33,40,7
+Estonia,Frontend Developer,st,44,50,6
+Estonia,Frontend Developer,co,51,62,11
+Estonia,Full Stack Developer,sme,33,43,10
+Estonia,Full Stack Developer,st,46,59,13
+Estonia,Full Stack Developer,co,50,62,12
+Estonia,Machine Learning Engineer,sme,36,48,12
+Estonia,Machine Learning Engineer,st,55,68,13
+Estonia,Machine Learning Engineer,co,60,77,17
+Estonia,Network Architect,sme,38,43,5
+Estonia,Network Architect,st,43,50,7
+Estonia,Network Architect,co,58,65,7
+Estonia,Python Developer,sme,26,32,6
+Estonia,Python Developer,st,37,45,8
+Estonia,Python Developer,co,40,48,8
+Estonia,QA Analyst,sme,36,38,2
+Estonia,QA Analyst,st,38,42,4
+Estonia,QA Analyst,co,38,43,5
+Estonia,QA Engineer,sme,26,34,8
+Estonia,QA Engineer,st,39,47,8
+Estonia,QA Engineer,co,42,50,8
+Estonia,QA Manager,sme,54,58,4
+Estonia,QA Manager,st,63,70,7
+Estonia,QA Manager,co,63,71,8
+Estonia,Salesforce Developer,sme,26,30,4
+Estonia,Salesforce Developer,st,25,31,6
+Estonia,Salesforce Developer,co,33,44,11
+Estonia,Scrum Master,sme,31,41,10
+Estonia,Scrum Master,st,37,47,10
+Estonia,Scrum Master,co,48,54,6
+Estonia,Software Developer,sme,32,35,3
+Estonia,Software Developer,st,45,51,6
+Estonia,Software Developer,co,47,54,7
+Estonia,Software Engineer,sme,35,48,13
+Estonia,Software Engineer,st,40,55,15
+Estonia,Software Engineer,co,56,72,16
+Estonia,Software Engineering Manager,sme,49,55,6
+Estonia,Software Engineering Manager,st,60,70,10
+Estonia,Software Engineering Manager,co,83,100,17
+Estonia,Solutions Analyst,sme,35,43,8
+Estonia,Solutions Analyst,st,38,47,9
+Estonia,Solutions Analyst,co,39,46,7
+Estonia,Systems Architect,sme,38,42,4
+Estonia,Systems Architect,st,42,51,9
+Estonia,Systems Architect,co,68,84,16
+Estonia,Systems Engineer,sme,34,44,10
+Estonia,Systems Engineer,st,42,52,10
+Estonia,Systems Engineer,co,44,55,11
+Estonia,Test Automation Engineer,sme,22,30,8
+Estonia,Test Automation Engineer,st,27,34,7
+Estonia,Test Automation Engineer,co,40,49,9
+Finland,Applications Developer,sme,45,51,6
+Finland,Applications Developer,st,54,62,8
+Finland,Applications Developer,co,59,64,5
+Finland,Automation Engineer,sme,40,48,8
+Finland,Automation Engineer,st,56,64,8
+Finland,Automation Engineer,co,59,68,9
+Finland,Backend Developer,sme,44,52,8
+Finland,Backend Developer,st,55,68,13
+Finland,Backend Developer,co,65,82,17
+Finland,BI Analyst,sme,42,50,8
+Finland,BI Analyst,st,45,54,9
+Finland,BI Analyst,co,46,55,9
+Finland,BI Developer,sme,42,47,5
+Finland,BI Developer,st,54,60,6
+Finland,BI Developer,co,56,63,7
+Finland,BI Manager,sme,64,74,10
+Finland,BI Manager,st,68,79,11
+Finland,BI Manager,co,87,97,10
+Finland,Cyber Security Analyst,sme,50,75,25
+Finland,Cyber Security Analyst,st,56,62,6
+Finland,Cyber Security Analyst,co,57,63,6
+Finland,Data Analyst,sme,49,54,5
+Finland,Data Analyst,st,51,58,7
+Finland,Data Analyst,co,52,59,7
+Finland,Data Engineer,sme,41,56,15
+Finland,Data Engineer,st,53,71,18
+Finland,Data Engineer,co,63,81,18
+Finland,Devops Engineer,sme,48,60,12
+Finland,Devops Engineer,st,56,72,16
+Finland,Devops Engineer,co,66,88,22
+Finland,Frontend Developer,sme,46,55,9
+Finland,Frontend Developer,st,57,69,12
+Finland,Frontend Developer,co,68,77,9
+Finland,Full Stack Developer,sme,45,58,13
+Finland,Full Stack Developer,st,60,75,15
+Finland,Full Stack Developer,co,63,78,15
+Finland,Machine Learning Engineer,sme,50,64,14
+Finland,Machine Learning Engineer,st,62,78,16
+Finland,Machine Learning Engineer,co,68,80,12
+Finland,Network Architect,sme,48,54,6
+Finland,Network Architect,st,54,63,9
+Finland,Network Architect,co,69,83,14
+Finland,Python Developer,sme,35,44,9
+Finland,Python Developer,st,49,60,11
+Finland,Python Developer,co,51,63,12
+Finland,QA Analyst,sme,52,58,6
+Finland,QA Analyst,st,54,60,6
+Finland,QA Analyst,co,54,61,7
+Finland,QA Engineer,sme,42,45,3
+Finland,QA Engineer,st,49,55,6
+Finland,QA Engineer,co,53,56,3
+Finland,QA Manager,sme,64,72,8
+Finland,QA Manager,st,78,89,11
+Finland,QA Manager,co,77,90,13
+Finland,Salesforce Developer,sme,43,48,5
+Finland,Salesforce Developer,st,40,48,8
+Finland,Salesforce Developer,co,44,55,11
+Finland,Scrum Master,sme,46,57,11
+Finland,Scrum Master,st,50,61,11
+Finland,Scrum Master,co,59,73,14
+Finland,Software Developer,sme,44,50,6
+Finland,Software Developer,st,63,73,10
+Finland,Software Developer,co,66,78,12
+Finland,Software Engineer,sme,44,60,16
+Finland,Software Engineer,st,48,65,17
+Finland,Software Engineer,co,67,86,19
+Finland,Software Engineering Manager,sme,56,62,6
+Finland,Software Engineering Manager,st,69,82,13
+Finland,Software Engineering Manager,co,96,113,17
+Finland,Solutions Analyst,sme,48,63,15
+Finland,Solutions Analyst,st,52,62,10
+Finland,Solutions Analyst,co,51,62,11
+Finland,Systems Architect,sme,50,58,8
+Finland,Systems Architect,st,52,65,13
+Finland,Systems Architect,co,95,115,20
+Finland,Systems Engineer,sme,48,62,14
+Finland,Systems Engineer,st,60,71,11
+Finland,Systems Engineer,co,64,78,14
+Finland,Test Automation Engineer,sme,35,44,9
+Finland,Test Automation Engineer,st,38,45,7
+Finland,Test Automation Engineer,co,51,58,7
+France,Applications Developer,sme,46,53,7
+France,Applications Developer,st,52,59,7
+France,Applications Developer,co,50,56,6
+France,Automation Engineer,sme,40,47,7
+France,Automation Engineer,st,52,59,7
+France,Automation Engineer,co,53,61,8
+France,Backend Developer,sme,52,67,15
+France,Backend Developer,st,71,88,17
+France,Backend Developer,co,85,105,20
+France,BI Analyst,sme,44,50,6
+France,BI Analyst,st,46,52,6
+France,BI Analyst,co,47,53,6
+France,BI Developer,sme,39,46,7
+France,BI Developer,st,49,58,9
+France,BI Developer,co,50,59,9
+France,BI Manager,sme,73,83,10
+France,BI Manager,st,77,88,11
+France,BI Manager,co,100,109,9
+France,Cyber Security Analyst,sme,49,55,6
+France,Cyber Security Analyst,st,49,59,10
+France,Cyber Security Analyst,co,49,59,10
+France,Data Analyst,sme,47,53,6
+France,Data Analyst,st,51,58,7
+France,Data Analyst,co,51,58,7
+France,Data Engineer,sme,50,64,14
+France,Data Engineer,st,64,82,18
+France,Data Engineer,co,77,97,20
+France,Devops Engineer,sme,43,55,12
+France,Devops Engineer,st,53,68,15
+France,Devops Engineer,co,63,81,18
+France,Frontend Developer,sme,47,58,11
+France,Frontend Developer,st,61,74,13
+France,Frontend Developer,co,72,86,14
+France,Full Stack Developer,sme,48,60,12
+France,Full Stack Developer,st,63,77,14
+France,Full Stack Developer,co,68,79,11
+France,Machine Learning Engineer,sme,60,75,15
+France,Machine Learning Engineer,st,84,94,10
+France,Machine Learning Engineer,co,92,100,8
+France,Network Architect,sme,46,58,12
+France,Network Architect,st,50,61,11
+France,Network Architect,co,68,79,11
+France,Python Developer,sme,41,49,8
+France,Python Developer,st,57,68,11
+France,Python Developer,co,60,72,12
+France,QA Analyst,sme,47,53,6
+France,QA Analyst,st,49,54,5
+France,QA Analyst,co,49,54,5
+France,QA Engineer,sme,46,48,2
+France,QA Engineer,st,56,61,5
+France,QA Engineer,co,60,65,5
+France,QA Manager,sme,70,100,30
+France,QA Manager,st,79,111,32
+France,QA Manager,co,79,110,31
+France,Salesforce Developer,sme,38,45,7
+France,Salesforce Developer,st,37,45,8
+France,Salesforce Developer,co,44,53,9
+France,Scrum Master,sme,45,54,9
+France,Scrum Master,st,52,59,7
+France,Scrum Master,co,62,75,13
+France,Software Developer,sme,47,56,9
+France,Software Developer,st,63,75,12
+France,Software Developer,co,67,79,12
+France,Software Engineer,sme,48,62,14
+France,Software Engineer,st,55,72,17
+France,Software Engineer,co,78,99,21
+France,Software Engineering Manager,sme,74,81,7
+France,Software Engineering Manager,st,90,98,8
+France,Software Engineering Manager,co,122,133,11
+France,Solutions Analyst,sme,49,58,9
+France,Solutions Analyst,st,52,67,15
+France,Solutions Analyst,co,53,67,14
+France,Systems Architect,sme,66,76,10
+France,Systems Architect,st,58,68,10
+France,Systems Architect,co,100,121,21
+France,Systems Engineer,sme,53,62,9
+France,Systems Engineer,st,63,73,10
+France,Systems Engineer,co,67,78,11
+France,Test Automation Engineer,sme,36,45,9
+France,Test Automation Engineer,st,38,44,6
+France,Test Automation Engineer,co,50,58,8
+Germany,Applications Developer,sme,50,62,12
+Germany,Applications Developer,st,70,80,10
+Germany,Applications Developer,co,71,81,10
+Germany,Automation Engineer,sme,50,53,3
+Germany,Automation Engineer,st,61,67,6
+Germany,Automation Engineer,co,63,68,5
+Germany,Backend Developer,sme,55,72,17
+Germany,Backend Developer,st,69,92,23
+Germany,Backend Developer,co,82,110,28
+Germany,BI Analyst,sme,56,62,6
+Germany,BI Analyst,st,58,64,6
+Germany,BI Analyst,co,58,64,6
+Germany,BI Developer,sme,49,59,10
+Germany,BI Developer,st,69,79,10
+Germany,BI Developer,co,72,84,12
+Germany,BI Manager,sme,80,91,11
+Germany,BI Manager,st,86,96,10
+Germany,BI Manager,co,112,121,9
+Germany,Cyber Security Analyst,sme,60,68,8
+Germany,Cyber Security Analyst,st,63,70,7
+Germany,Cyber Security Analyst,co,62,68,6
+Germany,Data Analyst,sme,49,59,10
+Germany,Data Analyst,st,50,62,12
+Germany,Data Analyst,co,51,63,12
+Germany,Data Engineer,sme,55,72,17
+Germany,Data Engineer,st,68,88,20
+Germany,Data Engineer,co,80,104,24
+Germany,Devops Engineer,sme,57,64,7
+Germany,Devops Engineer,st,70,85,15
+Germany,Devops Engineer,co,81,102,21
+Germany,Frontend Developer,sme,56,67,11
+Germany,Frontend Developer,st,72,86,14
+Germany,Frontend Developer,co,88,98,10
+Germany,Full Stack Developer,sme,57,71,14
+Germany,Full Stack Developer,st,82,98,16
+Germany,Full Stack Developer,co,86,104,18
+Germany,Machine Learning Engineer,sme,63,76,13
+Germany,Machine Learning Engineer,st,88,105,17
+Germany,Machine Learning Engineer,co,99,114,15
+Germany,Network Architect,sme,56,69,13
+Germany,Network Architect,st,61,75,14
+Germany,Network Architect,co,78,90,12
+Germany,Python Developer,sme,47,56,9
+Germany,Python Developer,st,64,78,14
+Germany,Python Developer,co,69,83,14
+Germany,QA Analyst,sme,54,61,7
+Germany,QA Analyst,st,55,64,9
+Germany,QA Analyst,co,56,63,7
+Germany,QA Engineer,sme,54,57,3
+Germany,QA Engineer,st,61,66,5
+Germany,QA Engineer,co,62,68,6
+Germany,QA Manager,sme,80,114,34
+Germany,QA Manager,st,91,113,22
+Germany,QA Manager,co,91,109,18
+Germany,Salesforce Developer,sme,42,51,9
+Germany,Salesforce Developer,st,43,52,9
+Germany,Salesforce Developer,co,49,58,9
+Germany,Scrum Master,sme,62,78,16
+Germany,Scrum Master,st,68,87,19
+Germany,Scrum Master,co,86,98,12
+Germany,Software Developer,sme,54,61,7
+Germany,Software Developer,st,67,79,12
+Germany,Software Developer,co,70,83,13
+Germany,Software Engineer,sme,57,76,19
+Germany,Software Engineer,st,58,74,16
+Germany,Software Engineer,co,73,91,18
+Germany,Software Engineering Manager,sme,75,81,6
+Germany,Software Engineering Manager,st,92,100,8
+Germany,Software Engineering Manager,co,125,138,13
+Germany,Solutions Analyst,sme,56,77,21
+Germany,Solutions Analyst,st,67,86,19
+Germany,Solutions Analyst,co,70,89,19
+Germany,Systems Architect,sme,63,74,11
+Germany,Systems Architect,st,63,74,11
+Germany,Systems Architect,co,115,135,20
+Germany,Systems Engineer,sme,62,71,9
+Germany,Systems Engineer,st,77,92,15
+Germany,Systems Engineer,co,77,88,11
+Germany,Test Automation Engineer,sme,43,54,11
+Germany,Test Automation Engineer,st,46,55,9
+Germany,Test Automation Engineer,co,66,67,1
+Greece,Applications Developer,sme,27,31,4
+Greece,Applications Developer,st,30,38,8
+Greece,Applications Developer,co,38,43,5
+Greece,Automation Engineer,sme,23,28,5
+Greece,Automation Engineer,st,33,39,6
+Greece,Automation Engineer,co,35,40,5
+Greece,Backend Developer,sme,26,32,6
+Greece,Backend Developer,st,30,40,10
+Greece,Backend Developer,co,31,45,14
+Greece,BI Analyst,sme,25,31,6
+Greece,BI Analyst,st,28,32,4
+Greece,BI Analyst,co,28,32,4
+Greece,BI Developer,sme,24,31,7
+Greece,BI Developer,st,32,38,6
+Greece,BI Developer,co,36,40,4
+Greece,BI Manager,sme,46,55,9
+Greece,BI Manager,st,48,57,9
+Greece,BI Manager,co,60,70,10
+Greece,Cyber Security Analyst,sme,31,42,11
+Greece,Cyber Security Analyst,st,34,43,9
+Greece,Cyber Security Analyst,co,34,42,8
+Greece,Data Analyst,sme,27,34,7
+Greece,Data Analyst,st,30,35,5
+Greece,Data Analyst,co,31,35,4
+Greece,Data Engineer,sme,28,36,8
+Greece,Data Engineer,st,36,46,10
+Greece,Data Engineer,co,42,55,13
+Greece,Devops Engineer,sme,28,33,5
+Greece,Devops Engineer,st,35,45,10
+Greece,Devops Engineer,co,40,52,12
+Greece,Frontend Developer,sme,30,38,8
+Greece,Frontend Developer,st,38,46,8
+Greece,Frontend Developer,co,45,60,15
+Greece,Full Stack Developer,sme,30,39,9
+Greece,Full Stack Developer,st,36,47,11
+Greece,Full Stack Developer,co,38,49,11
+Greece,Machine Learning Engineer,sme,36,42,6
+Greece,Machine Learning Engineer,st,43,53,10
+Greece,Machine Learning Engineer,co,45,61,16
+Greece,Network Architect,sme,31,38,7
+Greece,Network Architect,st,34,42,8
+Greece,Network Architect,co,44,56,12
+Greece,Python Developer,sme,22,28,6
+Greece,Python Developer,st,29,37,8
+Greece,Python Developer,co,31,37,6
+Greece,QA Analyst,sme,28,36,8
+Greece,QA Analyst,st,30,36,6
+Greece,QA Analyst,co,30,36,6
+Greece,QA Engineer,sme,28,32,4
+Greece,QA Engineer,st,33,42,9
+Greece,QA Engineer,co,38,43,5
+Greece,QA Manager,sme,45,52,7
+Greece,QA Manager,st,55,61,6
+Greece,QA Manager,co,56,61,5
+Greece,Salesforce Developer,sme,25,30,5
+Greece,Salesforce Developer,st,24,29,5
+Greece,Salesforce Developer,co,26,32,6
+Greece,Scrum Master,sme,28,41,13
+Greece,Scrum Master,st,31,44,13
+Greece,Scrum Master,co,40,49,9
+Greece,Software Developer,sme,30,35,5
+Greece,Software Developer,st,39,45,6
+Greece,Software Developer,co,41,48,7
+Greece,Software Engineer,sme,29,38,9
+Greece,Software Engineer,st,32,42,10
+Greece,Software Engineer,co,38,53,15
+Greece,Software Engineering Manager,sme,43,48,5
+Greece,Software Engineering Manager,st,53,58,5
+Greece,Software Engineering Manager,co,72,82,10
+Greece,Solutions Analyst,sme,30,34,4
+Greece,Solutions Analyst,st,31,41,10
+Greece,Solutions Analyst,co,32,41,9
+Greece,Systems Architect,sme,47,51,4
+Greece,Systems Architect,st,35,40,5
+Greece,Systems Architect,co,48,58,10
+Greece,Systems Engineer,sme,36,43,7
+Greece,Systems Engineer,st,44,55,11
+Greece,Systems Engineer,co,45,60,15
+Greece,Test Automation Engineer,sme,23,28,5
+Greece,Test Automation Engineer,st,25,33,8
+Greece,Test Automation Engineer,co,31,40,9
+Ireland,Applications Developer,sme,48,62,14
+Ireland,Applications Developer,st,62,68,6
+Ireland,Applications Developer,co,61,68,7
+Ireland,Automation Engineer,sme,45,52,7
+Ireland,Automation Engineer,st,59,66,7
+Ireland,Automation Engineer,co,61,68,7
+Ireland,Backend Developer,sme,52,67,15
+Ireland,Backend Developer,st,61,80,19
+Ireland,Backend Developer,co,70,92,22
+Ireland,BI Analyst,sme,52,59,7
+Ireland,BI Analyst,st,55,62,7
+Ireland,BI Analyst,co,55,62,7
+Ireland,BI Developer,sme,50,54,4
+Ireland,BI Developer,st,58,66,8
+Ireland,BI Developer,co,60,67,7
+Ireland,BI Manager,sme,71,82,11
+Ireland,BI Manager,st,76,87,11
+Ireland,BI Manager,co,101,109,8
+Ireland,Cyber Security Analyst,sme,66,75,9
+Ireland,Cyber Security Analyst,st,66,85,19
+Ireland,Cyber Security Analyst,co,67,86,19
+Ireland,Data Analyst,sme,53,62,9
+Ireland,Data Analyst,st,58,66,8
+Ireland,Data Analyst,co,58,66,8
+Ireland,Data Engineer,sme,51,66,15
+Ireland,Data Engineer,st,62,81,19
+Ireland,Data Engineer,co,69,87,18
+Ireland,Devops Engineer,sme,55,70,15
+Ireland,Devops Engineer,st,65,79,14
+Ireland,Devops Engineer,co,77,95,18
+Ireland,Frontend Developer,sme,53,60,7
+Ireland,Frontend Developer,st,61,73,12
+Ireland,Frontend Developer,co,72,86,14
+Ireland,Full Stack Developer,sme,54,67,13
+Ireland,Full Stack Developer,st,65,81,16
+Ireland,Full Stack Developer,co,68,84,16
+Ireland,Machine Learning Engineer,sme,56,65,9
+Ireland,Machine Learning Engineer,st,69,79,10
+Ireland,Machine Learning Engineer,co,74,82,8
+Ireland,Network Architect,sme,58,69,11
+Ireland,Network Architect,st,65,74,9
+Ireland,Network Architect,co,82,102,20
+Ireland,Python Developer,sme,45,54,9
+Ireland,Python Developer,st,60,71,11
+Ireland,Python Developer,co,62,75,13
+Ireland,QA Analyst,sme,55,61,6
+Ireland,QA Analyst,st,57,64,7
+Ireland,QA Analyst,co,57,65,8
+Ireland,QA Engineer,sme,54,62,8
+Ireland,QA Engineer,st,63,69,6
+Ireland,QA Engineer,co,64,68,4
+Ireland,QA Manager,sme,76,107,31
+Ireland,QA Manager,st,86,119,33
+Ireland,QA Manager,co,86,119,33
+Ireland,Salesforce Developer,sme,43,51,8
+Ireland,Salesforce Developer,st,45,53,8
+Ireland,Salesforce Developer,co,48,58,10
+Ireland,Scrum Master,sme,56,65,9
+Ireland,Scrum Master,st,60,70,10
+Ireland,Scrum Master,co,72,86,14
+Ireland,Software Developer,sme,56,62,6
+Ireland,Software Developer,st,74,88,14
+Ireland,Software Developer,co,79,94,15
+Ireland,Software Engineer,sme,52,69,17
+Ireland,Software Engineer,st,56,74,18
+Ireland,Software Engineer,co,78,98,20
+Ireland,Software Engineering Manager,sme,62,68,6
+Ireland,Software Engineering Manager,st,80,88,8
+Ireland,Software Engineering Manager,co,110,121,11
+Ireland,Solutions Analyst,sme,54,64,10
+Ireland,Solutions Analyst,st,55,72,17
+Ireland,Solutions Analyst,co,55,75,20
+Ireland,Systems Architect,sme,63,79,16
+Ireland,Systems Architect,st,68,81,13
+Ireland,Systems Architect,co,107,127,20
+Ireland,Systems Engineer,sme,58,69,11
+Ireland,Systems Engineer,st,71,84,13
+Ireland,Systems Engineer,co,73,86,13
+Ireland,Test Automation Engineer,sme,40,52,12
+Ireland,Test Automation Engineer,st,47,61,14
+Ireland,Test Automation Engineer,co,70,84,14
+Italy,Applications Developer,sme,46,49,3
+Italy,Applications Developer,st,50,61,11
+Italy,Applications Developer,co,50,59,9
+Italy,Automation Engineer,sme,36,45,9
+Italy,Automation Engineer,st,49,57,8
+Italy,Automation Engineer,co,51,59,8
+Italy,Backend Developer,sme,43,52,9
+Italy,Backend Developer,st,51,64,13
+Italy,Backend Developer,co,58,74,16
+Italy,BI Analyst,sme,41,47,6
+Italy,BI Analyst,st,43,48,5
+Italy,BI Analyst,co,44,48,4
+Italy,BI Developer,sme,37,42,5
+Italy,BI Developer,st,47,52,5
+Italy,BI Developer,co,47,52,5
+Italy,BI Manager,sme,64,72,8
+Italy,BI Manager,st,68,78,10
+Italy,BI Manager,co,87,97,10
+Italy,Cyber Security Analyst,sme,48,55,7
+Italy,Cyber Security Analyst,st,49,57,8
+Italy,Cyber Security Analyst,co,50,60,10
+Italy,Data Analyst,sme,41,48,7
+Italy,Data Analyst,st,44,51,7
+Italy,Data Analyst,co,45,51,6
+Italy,Data Engineer,sme,41,54,13
+Italy,Data Engineer,st,53,69,16
+Italy,Data Engineer,co,60,78,18
+Italy,Devops Engineer,sme,44,55,11
+Italy,Devops Engineer,st,52,64,12
+Italy,Devops Engineer,co,60,74,14
+Italy,Frontend Developer,sme,45,53,8
+Italy,Frontend Developer,st,53,65,12
+Italy,Frontend Developer,co,63,81,18
+Italy,Full Stack Developer,sme,42,54,12
+Italy,Full Stack Developer,st,50,65,15
+Italy,Full Stack Developer,co,51,65,14
+Italy,Machine Learning Engineer,sme,46,56,10
+Italy,Machine Learning Engineer,st,55,64,9
+Italy,Machine Learning Engineer,co,58,70,12
+Italy,Network Architect,sme,44,55,11
+Italy,Network Architect,st,48,61,13
+Italy,Network Architect,co,62,76,14
+Italy,Python Developer,sme,36,43,7
+Italy,Python Developer,st,44,55,11
+Italy,Python Developer,co,47,57,10
+Italy,QA Analyst,sme,47,54,7
+Italy,QA Analyst,st,50,58,8
+Italy,QA Analyst,co,52,59,7
+Italy,QA Engineer,sme,40,49,9
+Italy,QA Engineer,st,49,56,7
+Italy,QA Engineer,co,53,58,5
+Italy,QA Manager,sme,70,76,6
+Italy,QA Manager,st,77,93,16
+Italy,QA Manager,co,77,93,16
+Italy,Salesforce Developer,sme,35,39,4
+Italy,Salesforce Developer,st,36,42,6
+Italy,Salesforce Developer,co,45,52,7
+Italy,Scrum Master,sme,39,50,11
+Italy,Scrum Master,st,42,52,10
+Italy,Scrum Master,co,50,60,10
+Italy,Software Developer,sme,45,54,9
+Italy,Software Developer,st,60,72,12
+Italy,Software Developer,co,65,77,12
+Italy,Software Engineer,sme,42,56,14
+Italy,Software Engineer,st,44,60,16
+Italy,Software Engineer,co,53,72,19
+Italy,Software Engineering Manager,sme,60,65,5
+Italy,Software Engineering Manager,st,70,81,11
+Italy,Software Engineering Manager,co,97,112,15
+Italy,Solutions Analyst,sme,46,55,9
+Italy,Solutions Analyst,st,47,57,10
+Italy,Solutions Analyst,co,47,57,10
+Italy,Systems Architect,sme,50,65,15
+Italy,Systems Architect,st,57,70,13
+Italy,Systems Architect,co,98,112,14
+Italy,Systems Engineer,sme,47,54,7
+Italy,Systems Engineer,st,55,65,10
+Italy,Systems Engineer,co,59,70,11
+Italy,Test Automation Engineer,sme,33,40,7
+Italy,Test Automation Engineer,st,37,45,8
+Italy,Test Automation Engineer,co,47,53,6
+Luxembourg,Applications Developer,sme,63,74,11
+Luxembourg,Applications Developer,st,67,76,9
+Luxembourg,Applications Developer,co,65,76,11
+Luxembourg,Automation Engineer,sme,55,62,7
+Luxembourg,Automation Engineer,st,66,74,8
+Luxembourg,Automation Engineer,co,68,76,8
+Luxembourg,Backend Developer,sme,62,76,14
+Luxembourg,Backend Developer,st,76,95,19
+Luxembourg,Backend Developer,co,90,116,26
+Luxembourg,BI Analyst,sme,58,68,10
+Luxembourg,BI Analyst,st,60,70,10
+Luxembourg,BI Analyst,co,60,70,10
+Luxembourg,BI Developer,sme,55,60,5
+Luxembourg,BI Developer,st,64,74,10
+Luxembourg,BI Developer,co,64,74,10
+Luxembourg,BI Manager,sme,84,94,10
+Luxembourg,BI Manager,st,89,99,10
+Luxembourg,BI Manager,co,115,127,12
+Luxembourg,Cyber Security Analyst,sme,71,77,6
+Luxembourg,Cyber Security Analyst,st,71,78,7
+Luxembourg,Cyber Security Analyst,co,73,78,5
+Luxembourg,Data Analyst,sme,66,76,10
+Luxembourg,Data Analyst,st,70,83,13
+Luxembourg,Data Analyst,co,72,84,12
+Luxembourg,Data Engineer,sme,61,77,16
+Luxembourg,Data Engineer,st,72,93,21
+Luxembourg,Data Engineer,co,81,106,25
+Luxembourg,Devops Engineer,sme,61,72,11
+Luxembourg,Devops Engineer,st,72,85,13
+Luxembourg,Devops Engineer,co,84,98,14
+Luxembourg,Frontend Developer,sme,64,78,14
+Luxembourg,Frontend Developer,st,80,93,13
+Luxembourg,Frontend Developer,co,96,104,8
+Luxembourg,Full Stack Developer,sme,60,74,14
+Luxembourg,Full Stack Developer,st,75,93,18
+Luxembourg,Full Stack Developer,co,78,98,20
+Luxembourg,Machine Learning Engineer,sme,68,84,16
+Luxembourg,Machine Learning Engineer,st,82,101,19
+Luxembourg,Machine Learning Engineer,co,85,111,26
+Luxembourg,Network Architect,sme,67,74,7
+Luxembourg,Network Architect,st,73,83,10
+Luxembourg,Network Architect,co,93,108,15
+Luxembourg,Python Developer,sme,51,62,11
+Luxembourg,Python Developer,st,54,64,10
+Luxembourg,Python Developer,co,73,85,12
+Luxembourg,QA Analyst,sme,61,70,9
+Luxembourg,QA Analyst,st,66,75,9
+Luxembourg,QA Analyst,co,67,76,9
+Luxembourg,QA Engineer,sme,61,66,5
+Luxembourg,QA Engineer,st,72,79,7
+Luxembourg,QA Engineer,co,75,82,7
+Luxembourg,QA Manager,sme,90,108,18
+Luxembourg,QA Manager,st,97,112,15
+Luxembourg,QA Manager,co,97,112,15
+Luxembourg,Salesforce Developer,sme,47,57,10
+Luxembourg,Salesforce Developer,st,52,61,9
+Luxembourg,Salesforce Developer,co,60,66,6
+Luxembourg,Scrum Master,sme,58,74,16
+Luxembourg,Scrum Master,st,65,80,15
+Luxembourg,Scrum Master,co,79,96,17
+Luxembourg,Software Developer,sme,60,70,10
+Luxembourg,Software Developer,st,77,93,16
+Luxembourg,Software Developer,co,80,97,17
+Luxembourg,Software Engineer,sme,59,77,18
+Luxembourg,Software Engineer,st,63,82,19
+Luxembourg,Software Engineer,co,81,105,24
+Luxembourg,Software Engineering Manager,sme,78,88,10
+Luxembourg,Software Engineering Manager,st,95,107,12
+Luxembourg,Software Engineering Manager,co,130,148,18
+Luxembourg,Solutions Analyst,sme,61,80,19
+Luxembourg,Solutions Analyst,st,66,84,18
+Luxembourg,Solutions Analyst,co,67,84,17
+Luxembourg,Systems Architect,sme,73,84,11
+Luxembourg,Systems Architect,st,78,89,11
+Luxembourg,Systems Architect,co,128,157,29
+Luxembourg,Systems Engineer,sme,64,72,8
+Luxembourg,Systems Engineer,st,73,87,14
+Luxembourg,Systems Engineer,co,76,88,12
+Luxembourg,Test Automation Engineer,sme,51,61,10
+Luxembourg,Test Automation Engineer,st,53,62,9
+Luxembourg,Test Automation Engineer,co,66,75,9
+Malta,Applications Developer,sme,43,52,9
+Malta,Applications Developer,st,54,65,11
+Malta,Applications Developer,co,56,69,13
+Malta,Automation Engineer,sme,38,44,6
+Malta,Automation Engineer,st,52,59,7
+Malta,Automation Engineer,co,53,59,6
+Malta,Backend Developer,sme,42,50,8
+Malta,Backend Developer,st,57,69,12
+Malta,Backend Developer,co,68,83,15
+Malta,BI Analyst,sme,39,45,6
+Malta,BI Analyst,st,44,50,6
+Malta,BI Analyst,co,44,50,6
+Malta,BI Developer,sme,38,43,5
+Malta,BI Developer,st,51,59,8
+Malta,BI Developer,co,53,61,8
+Malta,BI Manager,sme,67,78,11
+Malta,BI Manager,st,71,82,11
+Malta,BI Manager,co,92,102,10
+Malta,Cyber Security Analyst,sme,52,58,6
+Malta,Cyber Security Analyst,st,58,64,6
+Malta,Cyber Security Analyst,co,59,66,7
+Malta,Data Analyst,sme,47,54,7
+Malta,Data Analyst,st,51,58,7
+Malta,Data Analyst,co,51,59,8
+Malta,Data Engineer,sme,44,61,17
+Malta,Data Engineer,st,60,78,18
+Malta,Data Engineer,co,69,90,21
+Malta,Devops Engineer,sme,50,64,14
+Malta,Devops Engineer,st,65,84,19
+Malta,Devops Engineer,co,79,100,21
+Malta,Frontend Developer,sme,47,58,11
+Malta,Frontend Developer,st,66,78,12
+Malta,Frontend Developer,co,79,94,15
+Malta,Full Stack Developer,sme,49,64,15
+Malta,Full Stack Developer,st,67,87,20
+Malta,Full Stack Developer,co,70,94,24
+Malta,Machine Learning Engineer,sme,46,63,17
+Malta,Machine Learning Engineer,st,64,81,17
+Malta,Machine Learning Engineer,co,71,87,16
+Malta,Network Architect,sme,44,55,11
+Malta,Network Architect,st,52,63,11
+Malta,Network Architect,co,75,86,11
+Malta,Python Developer,sme,35,43,8
+Malta,Python Developer,st,47,58,11
+Malta,Python Developer,co,50,63,13
+Malta,QA Analyst,sme,46,51,5
+Malta,QA Analyst,st,50,55,5
+Malta,QA Analyst,co,50,54,4
+Malta,QA Engineer,sme,40,45,5
+Malta,QA Engineer,st,53,58,5
+Malta,QA Engineer,co,58,64,6
+Malta,QA Manager,sme,70,91,21
+Malta,QA Manager,st,79,113,34
+Malta,QA Manager,co,80,114,34
+Malta,Salesforce Developer,sme,30,36,6
+Malta,Salesforce Developer,st,32,39,7
+Malta,Salesforce Developer,co,44,52,8
+Malta,Scrum Master,sme,44,53,9
+Malta,Scrum Master,st,47,57,10
+Malta,Scrum Master,co,54,66,12
+Malta,Software Developer,sme,44,51,7
+Malta,Software Developer,st,63,74,11
+Malta,Software Developer,co,67,80,13
+Malta,Software Engineer,sme,37,54,17
+Malta,Software Engineer,st,44,60,16
+Malta,Software Engineer,co,58,80,22
+Malta,Software Engineering Manager,sme,54,64,10
+Malta,Software Engineering Manager,st,66,81,15
+Malta,Software Engineering Manager,co,90,109,19
+Malta,Solutions Analyst,sme,45,57,12
+Malta,Solutions Analyst,st,46,58,12
+Malta,Solutions Analyst,co,47,57,10
+Malta,Systems Architect,sme,51,57,6
+Malta,Systems Architect,st,56,69,13
+Malta,Systems Architect,co,110,131,21
+Malta,Systems Engineer,sme,45,53,8
+Malta,Systems Engineer,st,59,70,11
+Malta,Systems Engineer,co,64,72,8
+Malta,Test Automation Engineer,sme,28,36,8
+Malta,Test Automation Engineer,st,37,45,8
+Malta,Test Automation Engineer,co,54,58,4
+Netherlands,Applications Developer,sme,47,58,11
+Netherlands,Applications Developer,st,59,70,11
+Netherlands,Applications Developer,co,61,68,7
+Netherlands,Automation Engineer,sme,48,51,3
+Netherlands,Automation Engineer,st,57,62,5
+Netherlands,Automation Engineer,co,58,64,6
+Netherlands,Backend Developer,sme,50,61,11
+Netherlands,Backend Developer,st,62,78,16
+Netherlands,Backend Developer,co,71,92,21
+Netherlands,BI Analyst,sme,50,58,8
+Netherlands,BI Analyst,st,53,60,7
+Netherlands,BI Analyst,co,53,61,8
+Netherlands,BI Developer,sme,47,51,4
+Netherlands,BI Developer,st,57,64,7
+Netherlands,BI Developer,co,58,66,8
+Netherlands,BI Manager,sme,78,89,11
+Netherlands,BI Manager,st,83,94,11
+Netherlands,BI Manager,co,107,118,11
+Netherlands,Cyber Security Analyst,sme,55,66,11
+Netherlands,Cyber Security Analyst,st,57,71,14
+Netherlands,Cyber Security Analyst,co,56,72,16
+Netherlands,Data Analyst,sme,52,59,7
+Netherlands,Data Analyst,st,56,64,8
+Netherlands,Data Analyst,co,58,64,6
+Netherlands,Data Engineer,sme,50,65,15
+Netherlands,Data Engineer,st,60,77,17
+Netherlands,Data Engineer,co,69,90,21
+Netherlands,Devops Engineer,sme,50,62,12
+Netherlands,Devops Engineer,st,63,81,18
+Netherlands,Devops Engineer,co,71,89,18
+Netherlands,Frontend Developer,sme,50,61,11
+Netherlands,Frontend Developer,st,63,75,12
+Netherlands,Frontend Developer,co,73,93,20
+Netherlands,Full Stack Developer,sme,51,65,14
+Netherlands,Full Stack Developer,st,62,79,17
+Netherlands,Full Stack Developer,co,63,82,19
+Netherlands,Machine Learning Engineer,sme,53,60,7
+Netherlands,Machine Learning Engineer,st,65,76,11
+Netherlands,Machine Learning Engineer,co,70,79,9
+Netherlands,Network Architect,sme,52,62,10
+Netherlands,Network Architect,st,60,70,10
+Netherlands,Network Architect,co,81,94,13
+Netherlands,Python Developer,sme,44,54,10
+Netherlands,Python Developer,st,54,66,12
+Netherlands,Python Developer,co,54,68,14
+Netherlands,QA Analyst,sme,53,60,7
+Netherlands,QA Analyst,st,55,63,8
+Netherlands,QA Analyst,co,56,63,7
+Netherlands,QA Engineer,sme,46,53,7
+Netherlands,QA Engineer,st,59,66,7
+Netherlands,QA Engineer,co,61,67,6
+Netherlands,QA Manager,sme,80,98,18
+Netherlands,QA Manager,st,91,110,19
+Netherlands,QA Manager,co,91,110,19
+Netherlands,Salesforce Developer,sme,42,51,9
+Netherlands,Salesforce Developer,st,42,50,8
+Netherlands,Salesforce Developer,co,50,57,7
+Netherlands,Scrum Master,sme,55,73,18
+Netherlands,Scrum Master,st,58,77,19
+Netherlands,Scrum Master,co,76,89,13
+Netherlands,Software Developer,sme,55,67,12
+Netherlands,Software Developer,st,75,89,14
+Netherlands,Software Developer,co,79,95,16
+Netherlands,Software Engineer,sme,48,65,17
+Netherlands,Software Engineer,st,51,70,19
+Netherlands,Software Engineer,co,64,87,23
+Netherlands,Software Engineering Manager,sme,75,84,9
+Netherlands,Software Engineering Manager,st,92,104,12
+Netherlands,Software Engineering Manager,co,124,141,17
+Netherlands,Solutions Analyst,sme,60,77,17
+Netherlands,Solutions Analyst,st,66,81,15
+Netherlands,Solutions Analyst,co,62,82,20
+Netherlands,Systems Architect,sme,58,71,13
+Netherlands,Systems Architect,st,66,78,12
+Netherlands,Systems Architect,co,118,142,24
+Netherlands,Systems Engineer,sme,59,68,9
+Netherlands,Systems Engineer,st,72,85,13
+Netherlands,Systems Engineer,co,76,96,20
+Netherlands,Test Automation Engineer,sme,45,60,15
+Netherlands,Test Automation Engineer,st,49,59,10
+Netherlands,Test Automation Engineer,co,64,71,7
+Norway,Applications Developer,sme,60,65,5
+Norway,Applications Developer,st,72,82,10
+Norway,Applications Developer,co,73,83,10
+Norway,Automation Engineer,sme,50,55,5
+Norway,Automation Engineer,st,67,75,8
+Norway,Automation Engineer,co,70,79,9
+Norway,Backend Developer,sme,54,69,15
+Norway,Backend Developer,st,73,93,20
+Norway,Backend Developer,co,86,117,31
+Norway,BI Analyst,sme,60,67,7
+Norway,BI Analyst,st,64,72,8
+Norway,BI Analyst,co,64,72,8
+Norway,BI Developer,sme,49,58,9
+Norway,BI Developer,st,66,76,10
+Norway,BI Developer,co,70,80,10
+Norway,BI Manager,sme,70,78,8
+Norway,BI Manager,st,74,84,10
+Norway,BI Manager,co,92,105,13
+Norway,Cyber Security Analyst,sme,78,88,10
+Norway,Cyber Security Analyst,st,82,93,11
+Norway,Cyber Security Analyst,co,86,95,9
+Norway,Data Analyst,sme,65,79,14
+Norway,Data Analyst,st,70,85,15
+Norway,Data Analyst,co,72,87,15
+Norway,Data Engineer,sme,63,80,17
+Norway,Data Engineer,st,80,102,22
+Norway,Data Engineer,co,93,119,26
+Norway,Devops Engineer,sme,57,74,17
+Norway,Devops Engineer,st,74,91,17
+Norway,Devops Engineer,co,87,109,22
+Norway,Frontend Developer,sme,53,66,13
+Norway,Frontend Developer,st,74,90,16
+Norway,Frontend Developer,co,86,107,21
+Norway,Full Stack Developer,sme,55,70,15
+Norway,Full Stack Developer,st,76,97,21
+Norway,Full Stack Developer,co,80,103,23
+Norway,Machine Learning Engineer,sme,62,76,14
+Norway,Machine Learning Engineer,st,88,104,16
+Norway,Machine Learning Engineer,co,96,123,27
+Norway,Network Architect,sme,64,77,13
+Norway,Network Architect,st,75,87,12
+Norway,Network Architect,co,105,118,13
+Norway,Python Developer,sme,45,55,10
+Norway,Python Developer,st,62,76,14
+Norway,Python Developer,co,67,80,13
+Norway,QA Analyst,sme,62,71,9
+Norway,QA Analyst,st,68,77,9
+Norway,QA Analyst,co,68,77,9
+Norway,QA Engineer,sme,55,64,9
+Norway,QA Engineer,st,73,84,11
+Norway,QA Engineer,co,80,90,10
+Norway,QA Manager,sme,83,116,33
+Norway,QA Manager,st,95,120,25
+Norway,QA Manager,co,93,123,30
+Norway,Salesforce Developer,sme,44,53,9
+Norway,Salesforce Developer,st,47,56,9
+Norway,Salesforce Developer,co,68,75,7
+Norway,Scrum Master,sme,64,76,12
+Norway,Scrum Master,st,69,82,13
+Norway,Scrum Master,co,82,98,16
+Norway,Software Developer,sme,58,66,8
+Norway,Software Developer,st,81,97,16
+Norway,Software Developer,co,85,102,17
+Norway,Software Engineer,sme,56,73,17
+Norway,Software Engineer,st,67,85,18
+Norway,Software Engineer,co,93,115,22
+Norway,Software Engineering Manager,sme,83,101,18
+Norway,Software Engineering Manager,st,101,119,18
+Norway,Software Engineering Manager,co,128,150,22
+Norway,Solutions Analyst,sme,71,89,18
+Norway,Solutions Analyst,st,74,96,22
+Norway,Solutions Analyst,co,77,97,20
+Norway,Systems Architect,sme,59,68,9
+Norway,Systems Architect,st,71,83,12
+Norway,Systems Architect,co,124,146,22
+Norway,Systems Engineer,sme,64,88,24
+Norway,Systems Engineer,st,79,92,13
+Norway,Systems Engineer,co,82,94,12
+Norway,Test Automation Engineer,sme,40,49,9
+Norway,Test Automation Engineer,st,52,58,6
+Norway,Test Automation Engineer,co,76,87,11
+Poland,Applications Developer,sme,30,33,3
+Poland,Applications Developer,st,44,51,7
+Poland,Applications Developer,co,38,44,6
+Poland,Automation Engineer,sme,24,33,9
+Poland,Automation Engineer,st,35,44,9
+Poland,Automation Engineer,co,37,46,9
+Poland,Backend Developer,sme,26,33,7
+Poland,Backend Developer,st,34,41,7
+Poland,Backend Developer,co,38,48,10
+Poland,BI Analyst,sme,30,34,4
+Poland,BI Analyst,st,31,36,5
+Poland,BI Analyst,co,30,35,5
+Poland,BI Developer,sme,25,33,8
+Poland,BI Developer,st,34,41,7
+Poland,BI Developer,co,35,42,7
+Poland,BI Manager,sme,49,55,6
+Poland,BI Manager,st,51,59,8
+Poland,BI Manager,co,64,72,8
+Poland,Cyber Security Analyst,sme,33,41,8
+Poland,Cyber Security Analyst,st,34,42,8
+Poland,Cyber Security Analyst,co,33,43,10
+Poland,Data Analyst,sme,31,36,5
+Poland,Data Analyst,st,33,37,4
+Poland,Data Analyst,co,32,37,5
+Poland,Data Engineer,sme,29,35,6
+Poland,Data Engineer,st,33,43,10
+Poland,Data Engineer,co,37,49,12
+Poland,Devops Engineer,sme,34,41,7
+Poland,Devops Engineer,st,41,51,10
+Poland,Devops Engineer,co,47,62,15
+Poland,Frontend Developer,sme,33,38,5
+Poland,Frontend Developer,st,40,48,8
+Poland,Frontend Developer,co,45,56,11
+Poland,Full Stack Developer,sme,28,41,13
+Poland,Full Stack Developer,st,36,51,15
+Poland,Full Stack Developer,co,36,50,14
+Poland,Machine Learning Engineer,sme,33,40,7
+Poland,Machine Learning Engineer,st,40,48,8
+Poland,Machine Learning Engineer,co,44,52,8
+Poland,Network Architect,sme,28,38,10
+Poland,Network Architect,st,35,42,7
+Poland,Network Architect,co,42,51,9
+Poland,Python Developer,sme,22,28,6
+Poland,Python Developer,st,27,34,7
+Poland,Python Developer,co,26,34,8
+Poland,QA Analyst,sme,31,35,4
+Poland,QA Analyst,st,34,39,5
+Poland,QA Analyst,co,35,39,4
+Poland,QA Engineer,sme,26,32,6
+Poland,QA Engineer,st,31,40,9
+Poland,QA Engineer,co,32,41,9
+Poland,QA Manager,sme,52,56,4
+Poland,QA Manager,st,59,65,6
+Poland,QA Manager,co,62,69,7
+Poland,Salesforce Developer,sme,24,27,3
+Poland,Salesforce Developer,st,25,28,3
+Poland,Salesforce Developer,co,30,35,5
+Poland,Scrum Master,sme,32,44,12
+Poland,Scrum Master,st,33,45,12
+Poland,Scrum Master,co,39,54,15
+Poland,Software Developer,sme,30,34,4
+Poland,Software Developer,st,38,43,5
+Poland,Software Developer,co,40,45,5
+Poland,Software Engineer,sme,30,40,10
+Poland,Software Engineer,st,33,44,11
+Poland,Software Engineer,co,43,59,16
+Poland,Software Engineering Manager,sme,42,48,6
+Poland,Software Engineering Manager,st,53,58,5
+Poland,Software Engineering Manager,co,71,80,9
+Poland,Solutions Analyst,sme,34,44,10
+Poland,Solutions Analyst,st,36,46,10
+Poland,Solutions Analyst,co,37,48,11
+Poland,Systems Architect,sme,47,52,5
+Poland,Systems Architect,st,48,56,8
+Poland,Systems Architect,co,63,79,16
+Poland,Systems Engineer,sme,37,41,4
+Poland,Systems Engineer,st,42,49,7
+Poland,Systems Engineer,co,43,50,7
+Poland,Test Automation Engineer,sme,24,32,8
+Poland,Test Automation Engineer,st,25,32,7
+Poland,Test Automation Engineer,co,33,44,11
+Portugal,Applications Developer,sme,28,31,3
+Portugal,Applications Developer,st,37,45,8
+Portugal,Applications Developer,co,38,42,4
+Portugal,Automation Engineer,sme,30,37,7
+Portugal,Automation Engineer,st,41,47,6
+Portugal,Automation Engineer,co,43,48,5
+Portugal,Backend Developer,sme,29,35,6
+Portugal,Backend Developer,st,34,46,12
+Portugal,Backend Developer,co,37,53,16
+Portugal,BI Analyst,sme,27,30,3
+Portugal,BI Analyst,st,28,32,4
+Portugal,BI Analyst,co,28,33,5
+Portugal,BI Developer,sme,29,31,2
+Portugal,BI Developer,st,34,38,4
+Portugal,BI Developer,co,36,39,3
+Portugal,BI Manager,sme,55,64,9
+Portugal,BI Manager,st,58,68,10
+Portugal,BI Manager,co,72,84,12
+Portugal,Cyber Security Analyst,sme,39,45,6
+Portugal,Cyber Security Analyst,st,46,51,5
+Portugal,Cyber Security Analyst,co,46,52,6
+Portugal,Data Analyst,sme,32,36,4
+Portugal,Data Analyst,st,34,38,4
+Portugal,Data Analyst,co,33,38,5
+Portugal,Data Engineer,sme,43,57,14
+Portugal,Data Engineer,st,57,73,16
+Portugal,Data Engineer,co,64,83,19
+Portugal,Devops Engineer,sme,34,38,4
+Portugal,Devops Engineer,st,39,49,10
+Portugal,Devops Engineer,co,46,57,11
+Portugal,Frontend Developer,sme,29,37,8
+Portugal,Frontend Developer,st,39,48,9
+Portugal,Frontend Developer,co,46,56,10
+Portugal,Full Stack Developer,sme,32,44,12
+Portugal,Full Stack Developer,st,47,58,11
+Portugal,Full Stack Developer,co,50,62,12
+Portugal,Machine Learning Engineer,sme,33,44,11
+Portugal,Machine Learning Engineer,st,44,53,9
+Portugal,Machine Learning Engineer,co,46,56,10
+Portugal,Network Architect,sme,34,46,12
+Portugal,Network Architect,st,37,46,9
+Portugal,Network Architect,co,46,56,10
+Portugal,Python Developer,sme,25,30,5
+Portugal,Python Developer,st,30,38,8
+Portugal,Python Developer,co,31,40,9
+Portugal,QA Analyst,sme,36,41,5
+Portugal,QA Analyst,st,38,44,6
+Portugal,QA Analyst,co,41,46,5
+Portugal,QA Engineer,sme,28,32,4
+Portugal,QA Engineer,st,33,38,5
+Portugal,QA Engineer,co,36,40,4
+Portugal,QA Manager,sme,58,63,5
+Portugal,QA Manager,st,64,78,14
+Portugal,QA Manager,co,65,77,12
+Portugal,Salesforce Developer,sme,30,34,4
+Portugal,Salesforce Developer,st,31,37,6
+Portugal,Salesforce Developer,co,32,42,10
+Portugal,Scrum Master,sme,34,47,13
+Portugal,Scrum Master,st,36,51,15
+Portugal,Scrum Master,co,46,58,12
+Portugal,Software Developer,sme,33,38,5
+Portugal,Software Developer,st,48,55,7
+Portugal,Software Developer,co,50,58,8
+Portugal,Software Engineer,sme,33,41,8
+Portugal,Software Engineer,st,35,50,15
+Portugal,Software Engineer,co,46,64,18
+Portugal,Software Engineering Manager,sme,52,58,6
+Portugal,Software Engineering Manager,st,64,70,6
+Portugal,Software Engineering Manager,co,88,93,5
+Portugal,Solutions Analyst,sme,44,50,6
+Portugal,Solutions Analyst,st,46,52,6
+Portugal,Solutions Analyst,co,47,52,5
+Portugal,Systems Architect,sme,40,50,10
+Portugal,Systems Architect,st,45,54,9
+Portugal,Systems Architect,co,66,80,14
+Portugal,Systems Engineer,sme,33,41,8
+Portugal,Systems Engineer,st,43,56,13
+Portugal,Systems Engineer,co,41,56,15
+Portugal,Test Automation Engineer,sme,22,33,11
+Portugal,Test Automation Engineer,st,27,38,11
+Portugal,Test Automation Engineer,co,39,54,15
+Romania,Applications Developer,sme,30,34,4
+Romania,Applications Developer,st,36,42,6
+Romania,Applications Developer,co,40,44,4
+Romania,Automation Engineer,sme,20,27,7
+Romania,Automation Engineer,st,28,35,7
+Romania,Automation Engineer,co,28,36,8
+Romania,Backend Developer,sme,27,33,6
+Romania,Backend Developer,st,32,43,11
+Romania,Backend Developer,co,39,49,10
+Romania,BI Analyst,sme,29,35,6
+Romania,BI Analyst,st,30,36,6
+Romania,BI Analyst,co,31,36,5
+Romania,BI Developer,sme,22,24,2
+Romania,BI Developer,st,28,33,5
+Romania,BI Developer,co,28,34,6
+Romania,BI Manager,sme,37,47,10
+Romania,BI Manager,st,39,49,10
+Romania,BI Manager,co,47,56,9
+Romania,Cyber Security Analyst,sme,28,38,10
+Romania,Cyber Security Analyst,st,30,39,9
+Romania,Cyber Security Analyst,co,28,37,9
+Romania,Data Analyst,sme,27,30,3
+Romania,Data Analyst,st,28,32,4
+Romania,Data Analyst,co,28,32,4
+Romania,Data Engineer,sme,24,30,6
+Romania,Data Engineer,st,31,40,9
+Romania,Data Engineer,co,33,44,11
+Romania,Devops Engineer,sme,23,28,5
+Romania,Devops Engineer,st,28,35,7
+Romania,Devops Engineer,co,32,41,9
+Romania,Frontend Developer,sme,26,31,5
+Romania,Frontend Developer,st,32,40,8
+Romania,Frontend Developer,co,38,49,11
+Romania,Full Stack Developer,sme,23,31,8
+Romania,Full Stack Developer,st,28,39,11
+Romania,Full Stack Developer,co,29,39,10
+Romania,Machine Learning Engineer,sme,24,30,6
+Romania,Machine Learning Engineer,st,33,38,5
+Romania,Machine Learning Engineer,co,31,39,8
+Romania,Network Architect,sme,28,33,5
+Romania,Network Architect,st,30,37,7
+Romania,Network Architect,co,37,51,14
+Romania,Python Developer,sme,20,24,4
+Romania,Python Developer,st,24,30,6
+Romania,Python Developer,co,26,31,5
+Romania,QA Analyst,sme,21,26,5
+Romania,QA Analyst,st,21,28,7
+Romania,QA Analyst,co,21,28,7
+Romania,QA Engineer,sme,22,24,2
+Romania,QA Engineer,st,29,34,5
+Romania,QA Engineer,co,29,34,5
+Romania,QA Manager,sme,40,45,5
+Romania,QA Manager,st,42,49,7
+Romania,QA Manager,co,42,50,8
+Romania,Salesforce Developer,sme,19,23,4
+Romania,Salesforce Developer,st,20,24,4
+Romania,Salesforce Developer,co,26,30,4
+Romania,Scrum Master,sme,21,29,8
+Romania,Scrum Master,st,22,31,9
+Romania,Scrum Master,co,27,37,10
+Romania,Software Developer,sme,25,31,6
+Romania,Software Developer,st,30,37,7
+Romania,Software Developer,co,30,37,7
+Romania,Software Engineer,sme,24,32,8
+Romania,Software Engineer,st,26,34,8
+Romania,Software Engineer,co,34,43,9
+Romania,Software Engineering Manager,sme,34,39,5
+Romania,Software Engineering Manager,st,41,46,5
+Romania,Software Engineering Manager,co,56,61,5
+Romania,Solutions Analyst,sme,26,34,8
+Romania,Solutions Analyst,st,28,37,9
+Romania,Solutions Analyst,co,27,35,8
+Romania,Systems Architect,sme,30,32,2
+Romania,Systems Architect,st,30,37,7
+Romania,Systems Architect,co,53,57,4
+Romania,Systems Engineer,sme,25,28,3
+Romania,Systems Engineer,st,30,37,7
+Romania,Systems Engineer,co,28,38,10
+Romania,Test Automation Engineer,sme,18,24,6
+Romania,Test Automation Engineer,st,19,28,9
+Romania,Test Automation Engineer,co,25,32,7
+Spain,Applications Developer,sme,44,48,4
+Spain,Applications Developer,st,49,60,11
+Spain,Applications Developer,co,43,52,9
+Spain,Automation Engineer,sme,32,40,8
+Spain,Automation Engineer,st,41,48,7
+Spain,Automation Engineer,co,42,48,6
+Spain,Backend Developer,sme,49,62,13
+Spain,Backend Developer,st,64,84,20
+Spain,Backend Developer,co,77,99,22
+Spain,BI Analyst,sme,39,46,7
+Spain,BI Analyst,st,42,50,8
+Spain,BI Analyst,co,42,50,8
+Spain,BI Developer,sme,30,35,5
+Spain,BI Developer,st,40,46,6
+Spain,BI Developer,co,41,49,8
+Spain,BI Manager,sme,47,56,9
+Spain,BI Manager,st,51,60,9
+Spain,BI Manager,co,63,73,10
+Spain,Cyber Security Analyst,sme,39,48,9
+Spain,Cyber Security Analyst,st,42,50,8
+Spain,Cyber Security Analyst,co,43,48,5
+Spain,Data Analyst,sme,39,44,5
+Spain,Data Analyst,st,42,48,6
+Spain,Data Analyst,co,42,49,7
+Spain,Data Engineer,sme,37,47,10
+Spain,Data Engineer,st,45,58,13
+Spain,Data Engineer,co,50,65,15
+Spain,Devops Engineer,sme,51,64,13
+Spain,Devops Engineer,st,66,84,18
+Spain,Devops Engineer,co,79,100,21
+Spain,Frontend Developer,sme,38,46,8
+Spain,Frontend Developer,st,48,58,10
+Spain,Frontend Developer,co,59,68,9
+Spain,Full Stack Developer,sme,37,49,12
+Spain,Full Stack Developer,st,49,65,16
+Spain,Full Stack Developer,co,52,68,16
+Spain,Machine Learning Engineer,sme,74,79,5
+Spain,Machine Learning Engineer,st,101,112,11
+Spain,Machine Learning Engineer,co,110,118,8
+Spain,Network Architect,sme,38,44,6
+Spain,Network Architect,st,43,49,6
+Spain,Network Architect,co,62,69,7
+Spain,Python Developer,sme,32,40,8
+Spain,Python Developer,st,40,50,10
+Spain,Python Developer,co,43,53,10
+Spain,QA Analyst,sme,39,43,4
+Spain,QA Analyst,st,39,47,8
+Spain,QA Analyst,co,40,46,6
+Spain,QA Engineer,sme,32,38,6
+Spain,QA Engineer,st,39,47,8
+Spain,QA Engineer,co,46,49,3
+Spain,QA Manager,sme,56,65,9
+Spain,QA Manager,st,63,89,26
+Spain,QA Manager,co,63,88,25
+Spain,Salesforce Developer,sme,31,34,3
+Spain,Salesforce Developer,st,33,38,5
+Spain,Salesforce Developer,co,35,44,9
+Spain,Scrum Master,sme,38,53,15
+Spain,Scrum Master,st,41,55,14
+Spain,Scrum Master,co,50,65,15
+Spain,Software Developer,sme,36,46,10
+Spain,Software Developer,st,50,58,8
+Spain,Software Developer,co,53,61,8
+Spain,Software Engineer,sme,39,54,15
+Spain,Software Engineer,st,46,62,16
+Spain,Software Engineer,co,65,82,17
+Spain,Software Engineering Manager,sme,47,54,7
+Spain,Software Engineering Manager,st,59,70,11
+Spain,Software Engineering Manager,co,82,99,17
+Spain,Solutions Analyst,sme,39,45,6
+Spain,Solutions Analyst,st,43,50,7
+Spain,Solutions Analyst,co,42,51,9
+Spain,Systems Architect,sme,43,48,5
+Spain,Systems Architect,st,46,53,7
+Spain,Systems Architect,co,74,89,15
+Spain,Systems Engineer,sme,47,60,13
+Spain,Systems Engineer,st,57,74,17
+Spain,Systems Engineer,co,60,76,16
+Spain,Test Automation Engineer,sme,28,34,6
+Spain,Test Automation Engineer,st,30,38,8
+Spain,Test Automation Engineer,co,38,48,10
+Sweden,Applications Developer,sme,48,54,6
+Sweden,Applications Developer,st,51,59,8
+Sweden,Applications Developer,co,54,60,6
+Sweden,Automation Engineer,sme,46,57,11
+Sweden,Automation Engineer,st,63,77,14
+Sweden,Automation Engineer,co,66,78,12
+Sweden,Backend Developer,sme,52,66,14
+Sweden,Backend Developer,st,69,89,20
+Sweden,Backend Developer,co,82,106,24
+Sweden,BI Analyst,sme,48,56,8
+Sweden,BI Analyst,st,52,60,8
+Sweden,BI Analyst,co,53,61,8
+Sweden,BI Developer,sme,50,62,12
+Sweden,BI Developer,st,70,83,13
+Sweden,BI Developer,co,74,86,12
+Sweden,BI Manager,sme,78,91,13
+Sweden,BI Manager,st,81,94,13
+Sweden,BI Manager,co,103,115,12
+Sweden,Cyber Security Analyst,sme,55,62,7
+Sweden,Cyber Security Analyst,st,61,67,6
+Sweden,Cyber Security Analyst,co,62,68,6
+Sweden,Data Analyst,sme,57,65,8
+Sweden,Data Analyst,st,62,71,9
+Sweden,Data Analyst,co,63,71,8
+Sweden,Data Engineer,sme,46,59,13
+Sweden,Data Engineer,st,57,73,16
+Sweden,Data Engineer,co,66,87,21
+Sweden,Devops Engineer,sme,52,65,13
+Sweden,Devops Engineer,st,67,86,19
+Sweden,Devops Engineer,co,81,101,20
+Sweden,Frontend Developer,sme,49,60,11
+Sweden,Frontend Developer,st,69,82,13
+Sweden,Frontend Developer,co,82,98,16
+Sweden,Full Stack Developer,sme,53,70,17
+Sweden,Full Stack Developer,st,74,96,22
+Sweden,Full Stack Developer,co,80,103,23
+Sweden,Machine Learning Engineer,sme,53,64,11
+Sweden,Machine Learning Engineer,st,76,88,12
+Sweden,Machine Learning Engineer,co,84,95,11
+Sweden,Network Architect,sme,50,62,12
+Sweden,Network Architect,st,56,69,13
+Sweden,Network Architect,co,73,94,21
+Sweden,Python Developer,sme,38,44,6
+Sweden,Python Developer,st,46,57,11
+Sweden,Python Developer,co,48,59,11
+Sweden,QA Analyst,sme,46,53,7
+Sweden,QA Analyst,st,51,57,6
+Sweden,QA Analyst,co,50,55,5
+Sweden,QA Engineer,sme,44,51,7
+Sweden,QA Engineer,st,52,63,11
+Sweden,QA Engineer,co,54,69,15
+Sweden,QA Manager,sme,76,107,31
+Sweden,QA Manager,st,85,115,30
+Sweden,QA Manager,co,85,115,30
+Sweden,Salesforce Developer,sme,38,45,7
+Sweden,Salesforce Developer,st,39,48,9
+Sweden,Salesforce Developer,co,55,64,9
+Sweden,Scrum Master,sme,46,54,8
+Sweden,Scrum Master,st,52,59,7
+Sweden,Scrum Master,co,64,71,7
+Sweden,Software Developer,sme,56,63,7
+Sweden,Software Developer,st,77,92,15
+Sweden,Software Developer,co,83,95,12
+Sweden,Software Engineer,sme,44,61,17
+Sweden,Software Engineer,st,48,66,18
+Sweden,Software Engineer,co,66,88,22
+Sweden,Software Engineering Manager,sme,78,87,9
+Sweden,Software Engineering Manager,st,98,109,11
+Sweden,Software Engineering Manager,co,133,152,19
+Sweden,Solutions Analyst,sme,46,59,13
+Sweden,Solutions Analyst,st,49,63,14
+Sweden,Solutions Analyst,co,49,62,13
+Sweden,Systems Architect,sme,66,71,5
+Sweden,Systems Architect,st,70,84,14
+Sweden,Systems Architect,co,120,146,26
+Sweden,Systems Engineer,sme,57,70,13
+Sweden,Systems Engineer,st,71,92,21
+Sweden,Systems Engineer,co,74,94,20
+Sweden,Test Automation Engineer,sme,35,44,9
+Sweden,Test Automation Engineer,st,39,47,8
+Sweden,Test Automation Engineer,co,49,55,6
+Switzerland,Applications Developer,sme,75,85,10
+Switzerland,Applications Developer,st,100,116,16
+Switzerland,Applications Developer,co,104,113,9
+Switzerland,Automation Engineer,sme,83,92,9
+Switzerland,Automation Engineer,st,109,122,13
+Switzerland,Automation Engineer,co,114,124,10
+Switzerland,Backend Developer,sme,81,113,32
+Switzerland,Backend Developer,st,107,137,30
+Switzerland,Backend Developer,co,128,161,33
+Switzerland,BI Analyst,sme,84,96,12
+Switzerland,BI Analyst,st,90,104,14
+Switzerland,BI Analyst,co,91,105,14
+Switzerland,BI Developer,sme,80,94,14
+Switzerland,BI Developer,st,106,126,20
+Switzerland,BI Developer,co,111,131,20
+Switzerland,BI Manager,sme,148,166,18
+Switzerland,BI Manager,st,159,178,19
+Switzerland,BI Manager,co,198,220,22
+Switzerland,Cyber Security Analyst,sme,121,136,15
+Switzerland,Cyber Security Analyst,st,133,150,17
+Switzerland,Cyber Security Analyst,co,134,152,18
+Switzerland,Data Analyst,sme,113,143,30
+Switzerland,Data Analyst,st,120,145,25
+Switzerland,Data Analyst,co,121,147,26
+Switzerland,Data Engineer,sme,90,112,22
+Switzerland,Data Engineer,st,118,142,24
+Switzerland,Data Engineer,co,140,162,22
+Switzerland,Devops Engineer,sme,89,108,19
+Switzerland,Devops Engineer,st,118,144,26
+Switzerland,Devops Engineer,co,140,170,30
+Switzerland,Frontend Developer,sme,93,114,21
+Switzerland,Frontend Developer,st,124,145,21
+Switzerland,Frontend Developer,co,145,179,34
+Switzerland,Full Stack Developer,sme,91,107,16
+Switzerland,Full Stack Developer,st,129,152,23
+Switzerland,Full Stack Developer,co,138,160,22
+Switzerland,Machine Learning Engineer,sme,89,116,27
+Switzerland,Machine Learning Engineer,st,120,141,21
+Switzerland,Machine Learning Engineer,co,131,156,25
+Switzerland,Network Architect,sme,104,127,23
+Switzerland,Network Architect,st,112,137,25
+Switzerland,Network Architect,co,148,179,31
+Switzerland,Python Developer,sme,77,93,16
+Switzerland,Python Developer,st,104,124,20
+Switzerland,Python Developer,co,115,132,17
+Switzerland,QA Analyst,sme,99,114,15
+Switzerland,QA Analyst,st,110,121,11
+Switzerland,QA Analyst,co,111,121,10
+Switzerland,QA Engineer,sme,72,84,12
+Switzerland,QA Engineer,st,96,110,14
+Switzerland,QA Engineer,co,105,118,13
+Switzerland,QA Manager,sme,148,154,6
+Switzerland,QA Manager,st,166,186,20
+Switzerland,QA Manager,co,165,186,21
+Switzerland,Salesforce Developer,sme,72,80,8
+Switzerland,Salesforce Developer,st,76,86,10
+Switzerland,Salesforce Developer,co,98,111,13
+Switzerland,Scrum Master,sme,110,128,18
+Switzerland,Scrum Master,st,118,136,18
+Switzerland,Scrum Master,co,141,160,19
+Switzerland,Software Developer,sme,84,102,18
+Switzerland,Software Developer,st,119,145,26
+Switzerland,Software Developer,co,127,152,25
+Switzerland,Software Engineer,sme,76,98,22
+Switzerland,Software Engineer,st,90,115,25
+Switzerland,Software Engineer,co,124,156,32
+Switzerland,Software Engineering Manager,sme,132,151,19
+Switzerland,Software Engineering Manager,st,155,179,24
+Switzerland,Software Engineering Manager,co,202,232,30
+Switzerland,Solutions Analyst,sme,79,98,19
+Switzerland,Solutions Analyst,st,85,102,17
+Switzerland,Solutions Analyst,co,86,103,17
+Switzerland,Systems Architect,sme,101,121,20
+Switzerland,Systems Architect,st,111,130,19
+Switzerland,Systems Architect,co,199,220,21
+Switzerland,Systems Engineer,sme,118,141,23
+Switzerland,Systems Engineer,st,151,177,26
+Switzerland,Systems Engineer,co,159,187,28
+Switzerland,Test Automation Engineer,sme,64,73,9
+Switzerland,Test Automation Engineer,st,81,88,7
+Switzerland,Test Automation Engineer,co,112,123,11
+Ukraine,Applications Developer,sme,14,18,4
+Ukraine,Applications Developer,st,20,24,4
+Ukraine,Applications Developer,co,18,22,4
+Ukraine,Automation Engineer,sme,14,20,6
+Ukraine,Automation Engineer,st,16,23,7
+Ukraine,Automation Engineer,co,18,26,8
+Ukraine,Backend Developer,sme,17,20,3
+Ukraine,Backend Developer,st,22,26,4
+Ukraine,Backend Developer,co,25,32,7
+Ukraine,BI Analyst,sme,15,18,3
+Ukraine,BI Analyst,st,15,21,6
+Ukraine,BI Analyst,co,15,21,6
+Ukraine,BI Developer,sme,16,20,4
+Ukraine,BI Developer,st,22,26,4
+Ukraine,BI Developer,co,26,31,5
+Ukraine,BI Manager,sme,32,38,6
+Ukraine,BI Manager,st,35,40,5
+Ukraine,BI Manager,co,42,47,5
+Ukraine,Cyber Security Analyst,sme,24,28,4
+Ukraine,Cyber Security Analyst,st,23,28,5
+Ukraine,Cyber Security Analyst,co,23,28,5
+Ukraine,Data Analyst,sme,20,25,5
+Ukraine,Data Analyst,st,22,27,5
+Ukraine,Data Analyst,co,24,27,3
+Ukraine,Data Engineer,sme,25,32,7
+Ukraine,Data Engineer,st,32,41,9
+Ukraine,Data Engineer,co,36,46,10
+Ukraine,Devops Engineer,sme,14,18,4
+Ukraine,Devops Engineer,st,16,20,4
+Ukraine,Devops Engineer,co,18,23,5
+Ukraine,Frontend Developer,sme,14,19,5
+Ukraine,Frontend Developer,st,17,21,4
+Ukraine,Frontend Developer,co,20,23,3
+Ukraine,Full Stack Developer,sme,21,28,7
+Ukraine,Full Stack Developer,st,27,38,11
+Ukraine,Full Stack Developer,co,30,41,11
+Ukraine,Machine Learning Engineer,sme,18,26,8
+Ukraine,Machine Learning Engineer,st,26,33,7
+Ukraine,Machine Learning Engineer,co,26,37,11
+Ukraine,Network Architect,sme,23,26,3
+Ukraine,Network Architect,st,27,33,6
+Ukraine,Network Architect,co,33,41,8
+Ukraine,Python Developer,sme,11,14,3
+Ukraine,Python Developer,st,13,16,3
+Ukraine,Python Developer,co,12,15,3
+Ukraine,QA Analyst,sme,18,24,6
+Ukraine,QA Analyst,st,25,28,3
+Ukraine,QA Analyst,co,25,28,3
+Ukraine,QA Engineer,sme,16,19,3
+Ukraine,QA Engineer,st,18,23,5
+Ukraine,QA Engineer,co,17,23,6
+Ukraine,QA Manager,sme,34,40,6
+Ukraine,QA Manager,st,34,37,3
+Ukraine,QA Manager,co,34,37,3
+Ukraine,Salesforce Developer,sme,19,24,5
+Ukraine,Salesforce Developer,st,18,23,5
+Ukraine,Salesforce Developer,co,22,30,8
+Ukraine,Scrum Master,sme,16,22,6
+Ukraine,Scrum Master,st,17,22,5
+Ukraine,Scrum Master,co,20,28,8
+Ukraine,Software Developer,sme,11,19,8
+Ukraine,Software Developer,st,16,23,7
+Ukraine,Software Developer,co,17,25,8
+Ukraine,Software Engineer,sme,14,21,7
+Ukraine,Software Engineer,st,15,22,7
+Ukraine,Software Engineer,co,22,30,8
+Ukraine,Software Engineering Manager,sme,35,38,3
+Ukraine,Software Engineering Manager,st,40,45,5
+Ukraine,Software Engineering Manager,co,58,63,5
+Ukraine,Solutions Analyst,sme,27,36,9
+Ukraine,Solutions Analyst,st,31,39,8
+Ukraine,Solutions Analyst,co,32,39,7
+Ukraine,Systems Architect,sme,13,16,3
+Ukraine,Systems Architect,st,18,22,4
+Ukraine,Systems Architect,co,20,32,12
+Ukraine,Systems Engineer,sme,30,36,6
+Ukraine,Systems Engineer,st,39,47,8
+Ukraine,Systems Engineer,co,40,49,9
+Ukraine,Test Automation Engineer,sme,13,18,5
+Ukraine,Test Automation Engineer,st,16,21,5
+Ukraine,Test Automation Engineer,co,22,30,8
+United Kingdom,Applications Developer,sme,53,61,8
+United Kingdom,Applications Developer,st,62,75,13
+United Kingdom,Applications Developer,co,63,70,7
+United Kingdom,Automation Engineer,sme,50,53,3
+United Kingdom,Automation Engineer,st,59,64,5
+United Kingdom,Automation Engineer,co,60,66,6
+United Kingdom,Backend Developer,sme,52,62,10
+United Kingdom,Backend Developer,st,63,79,16
+United Kingdom,Backend Developer,co,72,92,20
+United Kingdom,BI Analyst,sme,57,62,5
+United Kingdom,BI Analyst,st,60,65,5
+United Kingdom,BI Analyst,co,60,66,6
+United Kingdom,BI Developer,sme,51,58,7
+United Kingdom,BI Developer,st,65,74,9
+United Kingdom,BI Developer,co,68,77,9
+United Kingdom,BI Manager,sme,70,81,11
+United Kingdom,BI Manager,st,75,86,11
+United Kingdom,BI Manager,co,98,106,8
+United Kingdom,Cyber Security Analyst,sme,62,79,17
+United Kingdom,Cyber Security Analyst,st,65,80,15
+United Kingdom,Cyber Security Analyst,co,66,81,15
+United Kingdom,Data Analyst,sme,50,60,10
+United Kingdom,Data Analyst,st,53,63,10
+United Kingdom,Data Analyst,co,52,63,11
+United Kingdom,Data Engineer,sme,57,73,16
+United Kingdom,Data Engineer,st,66,87,21
+United Kingdom,Data Engineer,co,76,101,25
+United Kingdom,Devops Engineer,sme,56,69,13
+United Kingdom,Devops Engineer,st,66,81,15
+United Kingdom,Devops Engineer,co,77,91,14
+United Kingdom,Frontend Developer,sme,58,68,10
+United Kingdom,Frontend Developer,st,66,75,9
+United Kingdom,Frontend Developer,co,78,94,16
+United Kingdom,Full Stack Developer,sme,57,71,14
+United Kingdom,Full Stack Developer,st,77,92,15
+United Kingdom,Full Stack Developer,co,81,96,15
+United Kingdom,Machine Learning Engineer,sme,62,75,13
+United Kingdom,Machine Learning Engineer,st,71,87,16
+United Kingdom,Machine Learning Engineer,co,74,91,17
+United Kingdom,Network Architect,sme,60,68,8
+United Kingdom,Network Architect,st,64,74,10
+United Kingdom,Network Architect,co,79,97,18
+United Kingdom,Python Developer,sme,48,58,10
+United Kingdom,Python Developer,st,59,71,12
+United Kingdom,Python Developer,co,60,72,12
+United Kingdom,QA Analyst,sme,57,65,8
+United Kingdom,QA Analyst,st,61,70,9
+United Kingdom,QA Analyst,co,62,70,8
+United Kingdom,QA Engineer,sme,52,58,6
+United Kingdom,QA Engineer,st,62,69,7
+United Kingdom,QA Engineer,co,64,68,4
+United Kingdom,QA Manager,sme,78,100,22
+United Kingdom,QA Manager,st,89,123,34
+United Kingdom,QA Manager,co,88,124,36
+United Kingdom,Salesforce Developer,sme,48,56,8
+United Kingdom,Salesforce Developer,st,48,56,8
+United Kingdom,Salesforce Developer,co,53,63,10
+United Kingdom,Scrum Master,sme,46,56,10
+United Kingdom,Scrum Master,st,52,59,7
+United Kingdom,Scrum Master,co,65,80,15
+United Kingdom,Software Developer,sme,55,64,9
+United Kingdom,Software Developer,st,72,85,13
+United Kingdom,Software Developer,co,74,89,15
+United Kingdom,Software Engineer,sme,55,73,18
+United Kingdom,Software Engineer,st,61,78,17
+United Kingdom,Software Engineer,co,87,106,19
+United Kingdom,Software Engineering Manager,sme,66,76,10
+United Kingdom,Software Engineering Manager,st,82,88,6
+United Kingdom,Software Engineering Manager,co,111,120,9
+United Kingdom,Solutions Analyst,sme,56,68,12
+United Kingdom,Solutions Analyst,st,62,78,16
+United Kingdom,Solutions Analyst,co,62,78,16
+United Kingdom,Systems Architect,sme,64,72,8
+United Kingdom,Systems Architect,st,64,76,12
+United Kingdom,Systems Architect,co,112,131,19
+United Kingdom,Systems Engineer,sme,64,78,14
+United Kingdom,Systems Engineer,st,80,95,15
+United Kingdom,Systems Engineer,co,83,99,16
+United Kingdom,Test Automation Engineer,sme,45,56,11
+United Kingdom,Test Automation Engineer,st,48,57,9
+United Kingdom,Test Automation Engineer,co,58,64,6
